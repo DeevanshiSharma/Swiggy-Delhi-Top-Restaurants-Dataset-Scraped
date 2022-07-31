@@ -26,6 +26,8 @@ Momo Maker,"Snacks, Tandoor",4.7,₹200 FOR TWO,https://swiggy.com/restaurants/m
 PUNIKAR'S Mumbai Street Food,South Indian,4.7,₹150 FOR TWO,https://swiggy.com/restaurants/punikars-mumbai-street-food-pandav-nagar-mayur-vihar-delhi-154659
 The Old Delhi,"Mughlai, North Indian, Biryani, Desserts",4.7,₹400 FOR TWO,https://swiggy.com/restaurants/the-old-delhi-lajpat-nagar-defence-colony-delhi-569524
 Moets Kulfi,"Desserts, Beverages",4.7,₹200 FOR TWO,https://swiggy.com/restaurants/moets-kulfi-market-defence-colony-delhi-29751
+Ping's Cafe Orient,"Chinese, Vietnamese, Thai, Malaysian, Asian",4.7,₹1500 FOR TWO,https://swiggy.com/restaurants/pings-cafe-orient-market-lodhi-colony-delhi-27036
+Fat Lulu's Cafe & Bar,"Pizzas, Italian, Continental",4.7,₹800 FOR TWO,https://swiggy.com/restaurants/fat-lulus-cafe-and-bar-khan-market-delhi-369713
 Makery- Healthy Meal Bowls,"Healthy Food, Salads, Indian, European, Asian",4.7,₹800 FOR TWO,https://swiggy.com/restaurants/makery-healthy-meal-bowls-khan-market-delhi-491839
 Super Donuts- An American eatery and bakery,"American, Italian-American, Pastas, Continental, Desserts",4.6,₹300 FOR TWO,https://swiggy.com/restaurants/super-donuts-an-american-eatery-and-bakery-lajpat-nagar-delhi-322467
 Momo Guy,"Chinese, Tibetan, Beverages",4.6,₹200 FOR TWO,https://swiggy.com/restaurants/momo-guy-gtb-nagar-delhi-555422
@@ -33,10 +35,10 @@ Saini Juice,Beverages,4.6,₹150 FOR TWO,https://swiggy.com/restaurants/saini-ju
 Teavaro,"Beverages, Snacks, Desserts",4.6,₹400 FOR TWO,https://swiggy.com/restaurants/teavaro-gtb-nagar-delhi-541670
 Gopal Jee Ki Rasoi,"Indian, Thalis",4.6,₹200 FOR TWO,https://swiggy.com/restaurants/gopal-jee-ki-rasoi-kirti-nagar-delhi-387088
 For God's Cake,"Bakery, Desserts",4.6,₹350 FOR TWO,https://swiggy.com/restaurants/for-gods-cake-mayur-vihar-delhi-569839
-Choko La,Bakery,4.6,₹600 FOR TWO,https://swiggy.com/restaurants/choko-la-defence-colony-kotla-mubarakpur-delhi-426155
 Zoet Ice Cream and Desserts,"Desserts, Bakery",4.6,₹300 FOR TWO,https://swiggy.com/restaurants/zoet-ice-cream-and-desserts-maharani-bagh-defence-colony-delhi-83680
 SANADIGE,"Seafood, Coastal, North Indian, South Indian",4.6,₹1500 FOR TWO,https://swiggy.com/restaurants/sanadige-chanakyapuri-delhi-257021
 Grameen Kulfi,"Ice Cream, Desserts",4.6,₹120 FOR TWO,https://swiggy.com/restaurants/grameen-kulfi-bagh-karol-bagh-delhi-355348
+Azam's Mughlai,Mughlai,4.6,₹550 FOR TWO,https://swiggy.com/restaurants/azams-mughlai-khan-market-delhi-delhi-8448
 Chatkara,Beverages,4.6,₹300 FOR TWO,https://swiggy.com/restaurants/chatkara-swaroop-nagar-rajinder-nagar-delhi-511454
 Suvidha Vegetarian (Old Delhi Original),Indian,4.6,₹300 FOR TWO,https://swiggy.com/restaurants/suvidha-vegetarian-old-delhi-original-daryaganj-delhi-41655
 Salad Days,"Healthy Food, Salads, Desserts, Beverages",4.6,₹600 FOR TWO,https://swiggy.com/restaurants/salad-days-gole-market-delhi-526516
@@ -45,8 +47,6 @@ Blue Tokai Coffee Roasters,"Beverages, Desserts, Healthy Food, Bakery",4.6,₹50
 Havmor Havfunn ice cream,"Ice Cream, Ice Cream Cakes, Desserts, Beverages",4.6,₹200 FOR TWO,https://swiggy.com/restaurants/havmor-havfunn-ice-cream-m-block-cp-delhi-400890
 Kwality Walls Frozen Dessert and Ice Cream Shop,Ice Cream,4.6,₹300 FOR TWO,https://swiggy.com/restaurants/kwality-walls-frozen-dessert-and-ice-cream-shop-connaught-place-delhi-332576
 Natural Ice Cream,Ice Cream,4.6,₹150 FOR TWO,https://swiggy.com/restaurants/natural-ice-cream-l-block-outer-circle-connaught-place-delhi-27797
-Fabcafe By Fabindia,"North Indian, Healthy Food, Biryani, Beverages",4.5,₹800 FOR TWO,https://swiggy.com/restaurants/fabcafe-by-fabindia-lajpat-nagar-delhi-111547
-PAL CORNER,"Chinese, Fast Food",4.5,₹250 FOR TWO,https://swiggy.com/restaurants/pal-corner-south-campus-delhi-559438
 Fabcafe By Fabindia,"North Indian, Healthy Food, Biryani, Beverages",4.5,₹800 FOR TWO,https://swiggy.com/restaurants/fabcafe-by-fabindia-lajpat-nagar-delhi-111547
 PAL CORNER,"Chinese, Fast Food",4.5,₹250 FOR TWO,https://swiggy.com/restaurants/pal-corner-south-campus-delhi-559438
 NOTO - Healthy Ice Cream,Ice Cream,4.5,₹250 FOR TWO,https://swiggy.com/restaurants/noto-healthy-ice-cream-lajpat-nagar-delhi-417312
@@ -79,6 +79,8 @@ Large Pot,"North Indian, Snacks, Beverages",4.4,₹150 FOR TWO,https://swiggy.co
 Amour Bistro,"Desserts, European, French, Italian, Mediterranean, Middle Eastern, Spanish",4.4,₹1500 FOR TWO,https://swiggy.com/restaurants/amour-bistro-south-campus-chanakyapuri-delhi-344806
 Food Station (A Unit of Talli Station Rajendra Place),"Chinese, North Indian, Continental",4.4,₹600 FOR TWO,https://swiggy.com/restaurants/food-station-a-unit-of-talli-station-rajendra-place-rajendra-place-karol-bagh-delhi-86841
 The Brooklyn Creamery - Healthy Ice Cream,"Desserts, Ice Cream, Healthy Food",4.4,₹200 FOR TWO,https://swiggy.com/restaurants/the-brooklyn-creamery-healthy-ice-cream-rajendra-palace-fc-rajendra-place-delhi-367667
+Dashi - Dimsum & Sushi Bar,"Asian, Japanese, Chinese, Sushi",4.4,₹1000 FOR TWO,https://swiggy.com/restaurants/dashi-dimsum-and-sushi-bar-karol-bagh-delhi-422811
+Prem Dhaba,North Indian,4.4,₹300 FOR TWO,https://swiggy.com/restaurants/prem-dhaba-karol-bagh-delhi-571586
 Bhaja Govindam,"South Indian, North Indian",4.4,₹600 FOR TWO,https://swiggy.com/restaurants/bhaja-govindam-daryaganj-connought-place-delhi-61236
 Bismillah Kebab Point,North Indian,4.4,₹150 FOR TWO,https://swiggy.com/restaurants/bismillah-kebab-point-old-delhi-delhi-340434
 BITTU KI BIRYANI,Biryani,4.4,₹225 FOR TWO,https://swiggy.com/restaurants/bittu-ki-biryani-karol-bagh-delhi-552273
@@ -109,8 +111,6 @@ Fat Wrap Fat Roll,"Snacks, Beverages, Desserts",4.3,₹400 FOR TWO,https://swigg
 Relax Restaurant,"North Indian, Chinese",4.3,₹400 FOR TWO,https://swiggy.com/restaurants/relax-restaurant-market-lajpat-nagar-delhi-11814
 The Salt Cafe Kitchen & Bar,"North Indian, Chinese, Continental",4.3,₹1000 FOR TWO,https://swiggy.com/restaurants/the-salt-cafe-kitchen-and-bar-preet-vihar-nirman-vihar-delhi-16443
 Greenit,"Healthy Food, Salads, Continental, Pizzas, Beverages",4.3,₹400 FOR TWO,https://swiggy.com/restaurants/greenit-south-extension-delhi-532321
-Dilli Parantha,North Indian,4.3,₹200 FOR TWO,https://swiggy.com/restaurants/dilli-parantha-mayur-vihar-delhi-381510
-Moolchand Paratha (Moolchand Metro),"North Indian, Snacks, Punjabi",4.3,₹200 FOR TWO,https://swiggy.com/restaurants/moolchand-paratha-moolchand-metro-moolchand-meetro-station-lajpat-nagar-delhi-15449
 Dilli Parantha,North Indian,4.3,₹200 FOR TWO,https://swiggy.com/restaurants/dilli-parantha-mayur-vihar-delhi-381510
 Moolchand Paratha (Moolchand Metro),"North Indian, Snacks, Punjabi",4.3,₹200 FOR TWO,https://swiggy.com/restaurants/moolchand-paratha-moolchand-metro-moolchand-meetro-station-lajpat-nagar-delhi-15449
 Onlinecake.in,Bakery,4.3,₹500 FOR TWO,https://swiggy.com/restaurants/onlinecake-in-laxmi-nagar-delhi-438728
@@ -156,8 +156,9 @@ Bijoli Grill,"North Indian, Chinese, Bengali",4.3,₹500 FOR TWO,https://swiggy.
 Baskin Robbins,"Desserts, Ice Cream",4.3,₹250 FOR TWO,https://swiggy.com/restaurants/baskin-robbins-l-12-connaught-place-delhi-438612
 Haldiram's,North Indian,4.3,₹300 FOR TWO,https://swiggy.com/restaurants/haldirams-connaught-place-delhi-367763
 Khan Chacha,"North Indian, Kebabs, Biryani",4.3,₹850 FOR TWO,https://swiggy.com/restaurants/khan-chacha-cp-d-block-connaught-place-delhi-14951
+Burger King,American,4.3,₹350 FOR TWO,https://swiggy.com/restaurants/burger-king-inner-circle-connaught-place-delhi-8614
+Refections,"Juices, Beverages, Salads",4.2,₹250 FOR TWO,https://swiggy.com/restaurants/refections-gautam-nagar-delhi-52383
 The Flying Kebab,Indian,4.2,₹600 FOR TWO,https://swiggy.com/restaurants/the-flying-kebab-hakikat-nagar-mukherjee-nagar-delhi-173706
-SHRI HARI VEGETARIAN RESTAURANT,Indian,4.2,₹250 FOR TWO,https://swiggy.com/restaurants/shri-hari-vegetarian-restaurant-lajpat-nagar-delhi-255223
 Homefood Company,North Indian,4.2,₹250 FOR TWO,https://swiggy.com/restaurants/homefood-company-block-o-ii-lajpat-nagar-delhi-48647
 TukTuk - Asian on Wheels,"Chinese, Asian, Thai, Malaysian, Japanese, Pan-Asian",4.2,₹700 FOR TWO,https://swiggy.com/restaurants/tuktuk-asian-on-wheels-south-extension-south-extension-ii-delhi-220238
 Cake Palace,"Bakery, Desserts",4.2,₹400 FOR TWO,https://swiggy.com/restaurants/cake-palace-south-extension-2-delhi-20496
@@ -174,29 +175,29 @@ Parantha On Call,North Indian,4.2,₹300 FOR TWO,https://swiggy.com/restaurants/
 Hong Kong Express,"Chinese, Thai",4.2,₹450 FOR TWO,https://swiggy.com/restaurants/hong-kong-express-dda-market-lajpat-nagar-delhi-11803
 Arabian Delites,"Arabian, Lebanese",4.2,₹200 FOR TWO,https://swiggy.com/restaurants/arabian-delites-defence-colony-delhi-4705
 The Spicy No.1,"Biryani, Chinese, North Indian",4.2,₹150 FOR TWO,https://swiggy.com/restaurants/the-spicy-no-1-west-patel-nagar-delhi-526151
+The Spicy No.1,"Biryani, Chinese, North Indian",4.2,₹150 FOR TWO,https://swiggy.com/restaurants/the-spicy-no-1-west-patel-nagar-delhi-526151
 GUPTA'S VEGETARIAN PARADISE,"Chinese, North Indian, Tandoor, Thalis",4.2,₹250 FOR TWO,https://swiggy.com/restaurants/guptas-vegetarian-paradise-south-extension-delhi-387833
+AZUKI - Soulful Asian Experience,"Asian, Chinese, Thai, Pan-Asian, Seafood, Snacks, Beverages, Barbecue, Grill, Ti...",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/azuki-soulful-asian-experience-south-extension-delhi-433479
+MoonMoon - Juicy Crustwiches,"American, Snacks, Beverages",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/moonmoon-juicy-crustwiches-lajpat-nagar-delhi-371897
+Badmash Biryani,"Biryani, North Indian, Desserts, Beverages, Mughlai",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/badmash-biryani-south-extension-delhi-451888
+Mr Crust Bakers,"Desserts, Bakery, Sweets",4.2,₹400 FOR TWO,https://swiggy.com/restaurants/mr-crust-bakers-gtb-nagar-vijay-nagar-delhi-7606
+Rajinder Da Dhaba,"North Indian, Mughlai, Tandoor",4.2,₹400 FOR TWO,https://swiggy.com/restaurants/rajinder-da-dhaba-hauz-khas-safdarjung-delhi-213451
+Artiste Handcrafted Ice Cream,"Ice Cream, Desserts",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/artiste-handcrafted-ice-cream-lajpat-nagar-delhi-427034
+ANNA DOSA SOUTH INDIAN,"South Indian, North Indian, Indian, Chinese",4.2,₹200 FOR TWO,https://swiggy.com/restaurants/anna-dosa-south-indian-lajpat-nagar-delhi-321237
+Dish Of Odisha,North Indian,4.2,₹100 FOR TWO,https://swiggy.com/restaurants/dish-of-odisha-tayagraj-nagar-khan-market-delhi-62316
+Caterspoint,"Healthy Food, Salads, Snacks, Beverages, Desserts",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/caterspoint-karol-bagh-delhi-492325
+Amici Cafe,"Pizzas, Italian",4.2,₹1500 FOR TWO,https://swiggy.com/restaurants/amici-cafe-south-extension-defence-colony-delhi-39492
 Moets Curry Leaf,"Mughlai, North Indian, Seafood",4.2,₹1200 FOR TWO,https://swiggy.com/restaurants/moets-curry-leaf-defence-colony-delhi-5999
 Saladspoint,"Healthy Food, Salads, Snacks, Beverages, Desserts",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/saladspoint-karol-bagh-delhi-492326
 Mehfil,"Mughlai, Indian, Chinese, North Indian",4.2,₹500 FOR TWO,https://swiggy.com/restaurants/mehfil-defence-colony-south-extension-i-delhi-20141
 SRI BALAJI ANNA DOSA,"South Indian, Indian",4.2,₹200 FOR TWO,https://swiggy.com/restaurants/sri-balaji-anna-dosa-lajpat-nagar-delhi-550955
-Matka Cha Do Rusk by Cha Pata Tea,Fast Food,4.2,₹150 FOR TWO,https://swiggy.com/restaurants/matka-cha-do-rusk-by-cha-pata-tea-laxmi-nagar-delhi-510384
-Chinese & Shake Corner,"Chinese, Juices",4.2,₹200 FOR TWO,https://swiggy.com/restaurants/chinese-and-shake-corner-west-patel-nagar-delhi-141672
-PRIYANSHI SOUTH INDIAN FAST FOODPOINT,"South Indian, North Indian, Beverages",4.2,₹200 FOR TWO,https://swiggy.com/restaurants/priyanshi-south-indian-fast-foodpoint-laxmi-nagar-delhi-361928
-Oriental Mom,"Asian, Chinese, Thai, Burmese",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/oriental-mom-karol-bagh-west-patel-nagar-patel-nagar-delhi-132774
-Le winkies,"Fast Food, Beverages",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/le-winkies-east-patel-nagar-delhi-164372
-Shri Ganesh Corner (Laxmi nagar),Snacks,4.2,₹100 FOR TWO,https://swiggy.com/restaurants/shri-ganesh-corner-laxmi-nagar-laxmi-nagar-shakarpur-khas-delhi-286267
-Hudson Chopsticks,"Chinese, Pan-Asian, Oriental",4.2,₹250 FOR TWO,https://swiggy.com/restaurants/hudson-chopsticks-karol-bagh-delhi-379513
-Johny's Vada Pav,"Street Food, Maharashtrian",4.2,₹150 FOR TWO,https://swiggy.com/restaurants/johnys-vada-pav-east-patel-nagar-east-patel-nagar-patel-nagar-delhi-25956
-Fujiya,"Chinese, Japanese, Seafood, Fast Food",4.2,₹1500 FOR TWO,https://swiggy.com/restaurants/fujiya-malcha-marg-chanakyapuri-delhi-52518
-Kullhad Chai,Fast Food,4.2,₹200 FOR TWO,https://swiggy.com/restaurants/kullhad-chai-old-rajendra-nagar-market-rajinder-nagar-delhi-139296
-The Masala Garage,"North Indian, Chinese, Combo",4.2,₹350 FOR TWO,https://swiggy.com/restaurants/the-masala-garage-karol-bagh-delhi-367293
-monginis cake shop,"Bakery, Desserts",4.2,₹250 FOR TWO,https://swiggy.com/restaurants/monginis-cake-shop-karol-bagh-rajinder-nagar-delhi-350707
 Chinese & Shake Corner,"Chinese, Juices",4.2,₹200 FOR TWO,https://swiggy.com/restaurants/chinese-and-shake-corner-west-patel-nagar-delhi-141672
 PRIYANSHI SOUTH INDIAN FAST FOODPOINT,"South Indian, North Indian, Beverages",4.2,₹200 FOR TWO,https://swiggy.com/restaurants/priyanshi-south-indian-fast-foodpoint-laxmi-nagar-delhi-361928
 Chidambaram's New Madras Hotel,"South Indian, Chinese",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/chidambarams-new-madras-hotel-lodhi-colony-delhi-13386
 Oriental Mom,"Asian, Chinese, Thai, Burmese",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/oriental-mom-karol-bagh-west-patel-nagar-patel-nagar-delhi-132774
 Le winkies,"Fast Food, Beverages",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/le-winkies-east-patel-nagar-delhi-164372
 Shri Ganesh Corner (Laxmi nagar),Snacks,4.2,₹100 FOR TWO,https://swiggy.com/restaurants/shri-ganesh-corner-laxmi-nagar-laxmi-nagar-shakarpur-khas-delhi-286267
+Jamun ,"Goan, Hyderabadi, Biryani, Indian",4.2,₹1000 FOR TWO,https://swiggy.com/restaurants/jamun-khan-market-lodhi-colony-delhi-295512
 Hudson Chopsticks,"Chinese, Pan-Asian, Oriental",4.2,₹250 FOR TWO,https://swiggy.com/restaurants/hudson-chopsticks-karol-bagh-delhi-379513
 Johny's Vada Pav,"Street Food, Maharashtrian",4.2,₹150 FOR TWO,https://swiggy.com/restaurants/johnys-vada-pav-east-patel-nagar-east-patel-nagar-patel-nagar-delhi-25956
 Fujiya,"Chinese, Japanese, Seafood, Fast Food",4.2,₹1500 FOR TWO,https://swiggy.com/restaurants/fujiya-malcha-marg-chanakyapuri-delhi-52518
@@ -207,8 +208,8 @@ Saleem Javed Rule The Rolls,Mughlai,4.2,₹600 FOR TWO,https://swiggy.com/restau
 Burgrill - The Win Win Burger,"Burgers, Healthy Food, American, Salads, Beverages, Desserts, Snacks",4.2,₹250 FOR TWO,https://swiggy.com/restaurants/burgrill-the-win-win-burger-shankar-road-rajinder-nagar-delhi-67382
 Blue Water Grille,"Chinese, North Indian, Continental",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/blue-water-grille-shankar-road-old-rajinder-nagar-rajinder-nagar-delhi-87525
 Grover Mithaivala (Rajinder Nagar),"Bakery, Sweets, Snacks",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/grover-mithaivala-rajinder-nagar-karol-bagh-delhi-391413
-Grover Mithaivala (Rajinder Nagar),"Bakery, Sweets, Snacks",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/grover-mithaivala-rajinder-nagar-karol-bagh-delhi-391413
 Amma Mess,South Indian,4.2,₹300 FOR TWO,https://swiggy.com/restaurants/amma-mess-karol-bagh-delhi-81523
+New Tera Hotel,North Indian,4.2,₹150 FOR TWO,https://swiggy.com/restaurants/new-tera-hotel-ghaffar-market-arya-samaj-road-karol-bagh-delhi-25686
 Zaika (Daryaganj),"North Indian, Mughlai, Chinese",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/zaika-daryaganj-daryaganj-delhi-41739
 Ichiban,"Chinese, Thai, Japanese",4.2,₹1500 FOR TWO,https://swiggy.com/restaurants/ichiban-market-pandara-road-delhi-14595
 Crispers,Fast Food,4.2,₹300 FOR TWO,https://swiggy.com/restaurants/crispers-old-delhi-delhi-437083
@@ -222,13 +223,13 @@ Barista,"Beverages, Snacks, Desserts",4.2,₹350 FOR TWO,https://swiggy.com/rest
 Ghee and Turmeric,"North Indian, Tandoor, Punjabi, Beverages, Desserts, Mughlai",4.2,₹500 FOR TWO,https://swiggy.com/restaurants/ghee-and-turmeric-connaught-place-2-m-block-delhi-433575
 Sandoz ,"Indian, Chinese",4.2,₹350 FOR TWO,https://swiggy.com/restaurants/sandoz-connaught-place-delhi-292513
 Hira Sweets,"North Indian, South Indian, Chinese, Continental, Bakery, Street Food, Sweets, D...",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/hira-sweets-connaught-place-delhi-60643
-Bercos - If you love chinese,"Chinese, Thai, Asian, Beverages, Desserts, Oriental, Seafood, Pan-Asian",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/bercos-if-you-love-chinese-middle-circle-connaught-place-delhi-8564
-Maalgaadi by Dhaba Estd 1986 Delhi,"North Indian, Indian, Biryani, Punjabi, Kebabs, Grill, Mughlai, Desserts",4.2,₹300 FOR TWO,https://swiggy.com/restaurants/maalgaadi-by-dhaba-estd-1986-delhi-connaught-place-delhi-305529
+Ghee and Turmeric,"North Indian, Tandoor, Punjabi, Beverages, Desserts, Mughlai",4.2,₹500 FOR TWO,https://swiggy.com/restaurants/ghee-and-turmeric-connaught-place-2-m-block-delhi-433575
+Sandoz ,"Indian, Chinese",4.2,₹350 FOR TWO,https://swiggy.com/restaurants/sandoz-connaught-place-delhi-292513
+Hira Sweets,"North Indian, South Indian, Chinese, Continental, Bakery, Street Food, Sweets, D...",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/hira-sweets-connaught-place-delhi-60643
 Taco Bell,Mexican,4.2,₹300 FOR TWO,https://swiggy.com/restaurants/taco-bell-connaught-circus-outer-circle-connaught-place-delhi-169244
 Mughlai Junction,"Mughlai, North Indian, Tandoor",4.2,₹600 FOR TWO,https://swiggy.com/restaurants/mughlai-junction-connaught-place-delhi-8561
 Biryani By Kilo,"Biryani, Mughlai, Kebabs, North Indian, Hyderabadi, Lucknowi, Andhra, South Indi...",4.2,₹700 FOR TWO,https://swiggy.com/restaurants/biryani-by-kilo-n-block-connaught-place-delhi-51510
 Biryani Blues,"Biryani, Hyderabadi, Lucknowi, Kebabs, Desserts, Beverages",4.2,₹400 FOR TWO,https://swiggy.com/restaurants/biryani-blues-scindia-house-connaught-place-delhi-8620
-Burger King,American,4.2,₹350 FOR TWO,https://swiggy.com/restaurants/burger-king-ajmal-khan-road-karol-bagh-delhi-32127
 Chinese Daily,"Pan-Asian, Chinese, Seafood, Thai",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/chinese-daily-kirti-nagar-kirti-nagar-industrial-area-kirti-nagar-delhi-344023
 Doner & Gyros,"Lebanese, Middle Eastern",4.1,₹550 FOR TWO,https://swiggy.com/restaurants/doner-and-gyros-gtb-nagar-delhi-405175
 Vermaji Parathe Wale,North Indian,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/vermaji-parathe-wale-gautam-nagar-yusuf-sarai-delhi-181735
@@ -239,6 +240,20 @@ Rajshree Restaurant,Indian,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/raj
 The Village cafe,"South Indian, Indian, Chinese, Continental",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/the-village-cafe-chander-nagar-krishna-nagar-delhi-34941
 Ramesh Vaishno Dhaba(Jheel),Indian,4.1,₹200 FOR TWO,https://swiggy.com/restaurants/ramesh-vaishno-dhaba-jheel-karkardooma-laxmi-nagar-delhi-47166
 Cafeteria & Co.,"Italian, American, Continental, Mexican, Beverages, Desserts",4.1,₹900 FOR TWO,https://swiggy.com/restaurants/cafeteria-and-co-south-campus-south-moti-bagh-delhi-20631
+Waffle Nation,"Desserts, Ice Cream, Beverages, Snacks, Sweets, Bakery",4.1,₹100 FOR TWO,https://swiggy.com/restaurants/waffle-nation-gtb-nagar-vijay-nagar-delhi-46856
+Xero degrees,"North Indian, Chinese, Indian",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/xero-degrees-gtb-nagar-vijay-nagar-delhi-213516
+Chaman Dhaba,North Indian,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/chaman-dhaba-south-extension-geeta-colony-delhi-467993
+Brown Sugar,"Fast Food, Chinese, Beverages, Desserts, Continental, American",4.1,₹600 FOR TWO,https://swiggy.com/restaurants/brown-sugar-south-ex-south-extension-ii-delhi-50801
+Sialkot Vegetarian(Pyare Lal),North Indian,4.1,₹250 FOR TWO,https://swiggy.com/restaurants/sialkot-vegetarian-pyare-lal-geeta-colony-delhi-58107
+Burger House,Indian,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/burger-house-laxmi-nagar-vinod-nagar-north-delhi-225696
+Shagun,"Chinese, Thai, Japanese, Tibetan",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/shagun-vijay-nagar-hudson-lane-delhi-30705
+Chownese,Chinese,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/chownese-laxmi-nagar-delhi-389303
+Gupta's Restaurant,North Indian,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/guptas-restaurant-south-extension-2-south-extension-ii-delhi-52521
+Qureshi's Kabab Corner,"Indian, Mughlai",4.1,₹500 FOR TWO,https://swiggy.com/restaurants/qureshis-kabab-corner-defence-colony-lajpat-nagar-delhi-26779
+Makery- Healthy Meal Bowls,"Healthy Food, Pan-Asian, Salads",4.1,₹800 FOR TWO,https://swiggy.com/restaurants/makery-healthy-meal-bowls-lajpat-nagar-delhi-511390
+NYC.PIE ,"Pizzas, Italian, American, Mexican",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/nyc-pie-new-lajpat-nagar-delhi-328586
+Shivani Food House,"Indian, Snacks, Burgers, Fast Food",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/shivani-food-house-kotla-mubarakpur-delhi-477069
+Biryani Hazir ho,"Biryani, North Indian, Desserts, Beverages",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/biryani-hazir-ho-south-extension-delhi-451885
 Raju Chat Bhandar (bharat nagar),"Chaat, Snacks",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/raju-chat-bhandar-bharat-nagar-ashok-vihar-delhi-544112
 Bengali Sweet Center,"North Indian, South Indian, Chinese",4.1,₹450 FOR TWO,https://swiggy.com/restaurants/bengali-sweet-center-south-extension-south-extension-i-delhi-9412
 7th Heaven,"Bakery, Desserts",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/7th-heaven-mayur-vihar-delhi-418253
@@ -255,38 +270,40 @@ Hot N Cool,"Fast Food, Italian, Desserts, Beverages",4.1,₹200 FOR TWO,https://
 Beliram Degchiwala (Jangpura),"Mughlai, North Indian",4.1,₹700 FOR TWO,https://swiggy.com/restaurants/beliram-degchiwala-jangpura-jangpura-jungpura-extension-delhi-15330
 Bakisto,"Chinese, Continental, Bakery",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/bakisto-na-patel-nagar-delhi-113682
 Urban Vada Pav,Snacks,4.1,₹150 FOR TWO,https://swiggy.com/restaurants/urban-vada-pav-laxmi-nagar-shakarpur-khas-delhi-322460
-7th Heaven,"Bakery, Desserts",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/7th-heaven-mayur-vihar-delhi-418253
-Shack Foods,"Fast Food, Continental",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/shack-foods-kotla-mubarakpur-south-extension-i-delhi-24944
-Balaji Rasoi,North Indian,4.1,₹250 FOR TWO,https://swiggy.com/restaurants/balaji-rasoi-laxmi-nagar-delhi-146720
-49 Rolls,"Chinese, Snacks, American, Burgers, Lebanese, Fast Food",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/49-rolls-ganesh-nagar-2-extn-shakarpur-mayur-vihar-delhi-390023
-Love & Cheesecake,Bakery,4.1,₹900 FOR TWO,https://swiggy.com/restaurants/love-and-cheesecake-south-extension-defence-colony-delhi-496117
-28 Capri Italy,"Italian, Desserts, Salads",4.1,₹1000 FOR TWO,https://swiggy.com/restaurants/28-capri-italy-lajpat-nagar-defence-colony-delhi-6283
-Maddi sweet center,Sweets,4.1,₹200 FOR TWO,https://swiggy.com/restaurants/maddi-sweet-center-hauz-khas-south-extenison-delhi-467279
-Mehta Food Junction,North Indian,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/mehta-food-junction-laxmi-nagar-shakarpur-khas-delhi-55106
-Chow Maun,"Chinese, Fast Food, Continental, Snacks",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/chow-maun-west-patel-nagar-west-patel-nagar-patel-nagar-delhi-18365
-"Kebabi Karvaan - Kebabs, Curries & Biryanis","Kebabs, Mughlai, North Indian, Biryani",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/kebabi-karvaan-kebabs-curries-and-biryanis-preet-vihar-east-laxmi-nagar-delhi-508014
-Hot N Cool,"Fast Food, Italian, Desserts, Beverages",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/hot-n-cool-laxmi-nagar-delhi-489979
-Beliram Degchiwala (Jangpura),"Mughlai, North Indian",4.1,₹700 FOR TWO,https://swiggy.com/restaurants/beliram-degchiwala-jangpura-jangpura-jungpura-extension-delhi-15330
-Bakisto,"Chinese, Continental, Bakery",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/bakisto-na-patel-nagar-delhi-113682
-Urban Vada Pav,Snacks,4.1,₹150 FOR TWO,https://swiggy.com/restaurants/urban-vada-pav-laxmi-nagar-shakarpur-khas-delhi-322460
 MOMO MASTER,Chinese,4.1,₹200 FOR TWO,https://swiggy.com/restaurants/momo-master-laxmi-nagar-delhi-430911
-Gulab Wala,"North Indian, Sweets, South Indian",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/gulab-wala-tis-hazari-delhi-383937
-Elma's Brasserie,"Italian, Bakery, Desserts",4.1,₹1100 FOR TWO,https://swiggy.com/restaurants/elmas-brasserie-lodhi-colony-meharchand-market-lodhi-colony-delhi-15928
-Gyan's,"North Indian, Chinese",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/gyans-east-patel-nagar-delhi-46870
-The Yellow Chef,"Chinese, Fast Food, Lebanese, Italian-American, Snacks",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/the-yellow-chef-east-patel-nagar-east-patel-nagar-patel-nagar-delhi-10099
-Variety Of Shawarma's,Fast Food,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/variety-of-shawarmas-east-patel-nagar-delhi-77176
-LunchBox - Meals and Thalis,"North Indian, Punjabi, Combo, Biryani, Healthy Food, Jain, Thalis, Indian, Mughl...",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/lunchbox-meals-and-thalis-rajdner-place-rajendra-place-delhi-79321
-CHILL N GRILL,"Chinese, Continental, Fast Food, Indian",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/chill-n-grill-karol-bagh-rajendra-place-delhi-353111
-Too Mikkii Tapas coffee shop,"Italian, Continental, Beverages, Snacks, Fast Food, Desserts",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/too-mikkii-tapas-coffee-shop-karol-bagh-delhi-467444
-Popular Fruit Juice,"Beverages, Snacks, Pizzas",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/popular-fruit-juice-old-rajinder-nagar-delhi-162771
-Gautam mess,"North Indian, Seafood, Thalis, Indian",4.1,₹410 FOR TWO,https://swiggy.com/restaurants/gautam-mess-karol-bagh-delhi-480406
-THE INDO ASIAN KITCHEN,"Fast Food, Mughlai, North Indian, Chinese",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/the-indo-asian-kitchen-karol-bagh-delhi-367464
-SodaBottleOpenerWala,"Parsi, Biryani, Beverages, Bakery, Indian, Desserts, Street Food",4.1,₹600 FOR TWO,https://swiggy.com/restaurants/sodabottleopenerwala-khan-market-metro-station-rabindra-nagar-delhi-8419
-Oh! Pind,"North Indian, Kebabs, Mughlai",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/oh-pind-karol-bagh-delhi-315434
-Aunty's Paranthe,"North Indian, Fast Food",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/auntys-paranthe-karol-bagh-delhi-112346
+MOMO MASTER,Chinese,4.1,₹200 FOR TWO,https://swiggy.com/restaurants/momo-master-laxmi-nagar-delhi-430911
+Biryani Hazir ho,"Biryani, North Indian, Desserts, Beverages",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/biryani-hazir-ho-south-extension-delhi-451885
+Gupta's Restaurant,North Indian,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/guptas-restaurant-south-extension-2-south-extension-ii-delhi-52521
+Shagun,"Chinese, Thai, Japanese, Tibetan",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/shagun-vijay-nagar-hudson-lane-delhi-30705
+49 Rolls,"Chinese, Snacks, American, Burgers, Lebanese, Fast Food",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/49-rolls-ganesh-nagar-2-extn-shakarpur-mayur-vihar-delhi-390023
+Doner & Gyros,"Lebanese, Middle Eastern",4.1,₹550 FOR TWO,https://swiggy.com/restaurants/doner-and-gyros-gtb-nagar-delhi-405175
+Roshan Di Kulfi,"Street Food, Desserts",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/roshan-di-kulfi-karol-bagh-beadonpura-karol-bagh-delhi-9917
+Akash Deep,"North Indian, South Indian, Chinese",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/akash-deep-daryaganj-delhi-54774
 Standard Burfee,"Sweets, Snacks, Desserts",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/standard-burfee-karol-bagh-delhi-83734
-Qd's,"North Indian, Chinese, Snacks",4.1,₹350 FOR TWO,https://swiggy.com/restaurants/qds-karol-bagh-krishna-nagar-karol-bagh-delhi-158180
+Brown Sugar,"Fast Food, Chinese, Beverages, Desserts, Continental, American",4.1,₹600 FOR TWO,https://swiggy.com/restaurants/brown-sugar-south-ex-south-extension-ii-delhi-50801
+Gautam mess,"North Indian, Seafood, Thalis, Indian",4.1,₹410 FOR TWO,https://swiggy.com/restaurants/gautam-mess-karol-bagh-delhi-480406
+Too Mikkii Tapas coffee shop,"Italian, Continental, Beverages, Snacks, Fast Food, Desserts",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/too-mikkii-tapas-coffee-shop-karol-bagh-delhi-467444
+Shack Foods,"Fast Food, Continental",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/shack-foods-kotla-mubarakpur-south-extension-i-delhi-24944
+Tikka Fatory,"Chinese, Snacks",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/tikka-fatory-laxmi-nagar-delhi-502553
+Maddi sweet center,Sweets,4.1,₹200 FOR TWO,https://swiggy.com/restaurants/maddi-sweet-center-hauz-khas-south-extenison-delhi-467279
+Shivani Food House,"Indian, Snacks, Burgers, Fast Food",4.1,₹200 FOR TWO,https://swiggy.com/restaurants/shivani-food-house-kotla-mubarakpur-delhi-477069
 Masala Singh,"North Indian, Chinese, Fast Food, Continental",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/masala-singh-karol-bagh-rajinder-nagar-delhi-547319
+Mama's,"Chinese, North Indian",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/mamas-karol-bagh-rajender-nagar-part-1-new-rajinder-nagar-delhi-124756
+Punjab Sweet Corner,"North Indian, Snacks",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/punjab-sweet-corner-karol-bagh-delhi-302447
+SUGANDH,Indian,4.1,₹500 FOR TWO,https://swiggy.com/restaurants/sugandh-old-daryaganj-delhi-276113
+Roshan Di Kulfi,"Street Food, Desserts",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/roshan-di-kulfi-karol-bagh-beadonpura-karol-bagh-delhi-9917
+Bikanervala Chandni Chowk,"Street Food, Fast Food, Sweets",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/bikanervala-chandni-chowk-old-delhi-delhi-395433
+Havemore Restaurant ,"North Indian, Mughlai, Kebabs, Biryani, Beverages, Desserts",4.1,₹1000 FOR TWO,https://swiggy.com/restaurants/havemore-restaurant-khan-market-india-gate-delhi-8406
+Sweet Truth - Cake and Desserts,"Bakery, Desserts, Beverages",4.1,₹450 FOR TWO,https://swiggy.com/restaurants/sweet-truth-cake-and-desserts-gandhi-market-barakhamba-delhi-35887
+Annakoot by ISKCON Bangalore,"Sweets, South Indian",4.1,₹500 FOR TWO,https://swiggy.com/restaurants/annakoot-by-iskcon-bangalore-connaught-place-mandi-house-delhi-324401
+Akash Deep,"North Indian, South Indian, Chinese",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/akash-deep-daryaganj-delhi-54774
+The Good Bowl,"North Indian, Punjabi, Biryani, Chinese, Beverages, Desserts, Jain, Indian, Hyde...",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/the-good-bowl-connaught-place-minto-road-barakhamba-delhi-157768
+Bangla sweet n spice,Indian,4.1,₹300 FOR TWO,https://swiggy.com/restaurants/bangla-sweet-n-spice-connaught-place-gole-market-delhi-143021
+Nathu's PastryShop,"Bakery, Desserts, Fast Food",4.1,₹300 FOR TWO,https://swiggy.com/restaurants/nathus-pastryshop-bengali-market-mandi-house-delhi-40802
+Bhimsain's Bengali Sweet House,"Street Food, North Indian, South Indian, Sweets",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/bhimsains-bengali-sweet-house-bengali-market-mandi-house-delhi-15561
+Behrouz Biryani,"Biryani, Mughlai, Lucknowi, Hyderabadi, Kebabs, North Indian, Persian, Desserts",4.1,₹500 FOR TWO,https://swiggy.com/restaurants/behrouz-biryani-gandhi-market-barakhamba-delhi-17835
+Cafe Delhi Heights,"Continental, American, Italian, Seafood, North Indian, Chinese, European, Desser...",4.1,₹800 FOR TWO,https://swiggy.com/restaurants/cafe-delhi-heights-cannaught-place-connaught-place-delhi-66837
+Nizam's Kathi Kabab,"Mughlai, Kebabs",4.1,₹500 FOR TWO,https://swiggy.com/restaurants/nizams-kathi-kabab-connaught-place-delhi-55833
 Andhra Canteen,"South Indian, Biryani",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/andhra-canteen-khan-market-connaught-place-delhi-466732
 Domino's Pizza,Pizzas,4.1,₹400 FOR TWO,https://swiggy.com/restaurants/dominos-pizza-connaught-circle-connaught-place-delhi-24207
 Nando's,"Portuguese, African, Grill, Salads",4.1,₹450 FOR TWO,https://swiggy.com/restaurants/nandos-opp-rajiv-chowk-metro-station-connaught-place-delhi-17463
@@ -303,22 +320,22 @@ Kerala To Delhi Food Corner,"North Indian, South Indian, Biryani",4.0,₹250 FOR
 For God's Cake,"Bakery, Beverages, Pizzas",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/for-gods-cake-south-campus-moti-bagh-delhi-305644
 Spezia Deliveries,"Italian, American, Continental",4.0,₹350 FOR TWO,https://swiggy.com/restaurants/spezia-deliveries-hudson-lane-delhi-25949
 China Bowl,"Chinese, Thai, Japanese, Tibetan",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/china-bowl-south-campus-moti-bagh-delhi-30703
-Andhra Canteen,"South Indian, Biryani",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/andhra-canteen-khan-market-connaught-place-delhi-466732
-Domino's Pizza,Pizzas,4.1,₹400 FOR TWO,https://swiggy.com/restaurants/dominos-pizza-connaught-circle-connaught-place-delhi-24207
-Nando's,"Portuguese, African, Grill, Salads",4.1,₹450 FOR TWO,https://swiggy.com/restaurants/nandos-opp-rajiv-chowk-metro-station-connaught-place-delhi-17463
-Bangla Foods,"North Indian, Chinese, Desserts",4.1,₹250 FOR TWO,https://swiggy.com/restaurants/bangla-foods-gole-market-delhi-22917
-Pind Balluchi (CP),"Mughlai, North Indian",4.1,₹400 FOR TWO,https://swiggy.com/restaurants/pind-balluchi-cp-hanuman-road-area-connaught-place-delhi-12716
-Momos House,"Chinese, Thai",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/momos-house-gautam-nagar-delhi-58205
-Think Asia by Hudson Chopsticks,"Chinese, Thai, Asian, Japanese",4.0,₹500 FOR TWO,https://swiggy.com/restaurants/think-asia-by-hudson-chopsticks-gtb-nagar-mukherjee-nagar-delhi-143728
-Puran Dhaba,"North Indian, Fast Food, Chinese, Beverages",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/puran-dhaba-ashok-vihar-delhi-318320
-ARI's Pizza & Grill,"Pizzas, Italian, Beverages",4.0,₹350 FOR TWO,https://swiggy.com/restaurants/aris-pizza-and-grill-lajpat-nagar-delhi-427229
-High On Burgers,"American, Pizzas, Beverages",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/high-on-burgers-satyaniketan-moti-bagh-delhi-3945
-Food of Dreams,"North Indian, Chinese",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/food-of-dreams-ashok-vihar-delhi-346575
-Beliram Degchiwala (Lajpat Nagar),"Mughlai, North Indian, Biryani",4.0,₹700 FOR TWO,https://swiggy.com/restaurants/beliram-degchiwala-lajpat-nagar-2-lajpat-nagar-delhi-15329
-Kerala To Delhi Food Corner,"North Indian, South Indian, Biryani",4.0,₹250 FOR TWO,https://swiggy.com/restaurants/kerala-to-delhi-food-corner-south-extension-delhi-501569
-For God's Cake,"Bakery, Beverages, Pizzas",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/for-gods-cake-south-campus-moti-bagh-delhi-305644
-Spezia Deliveries,"Italian, American, Continental",4.0,₹350 FOR TWO,https://swiggy.com/restaurants/spezia-deliveries-hudson-lane-delhi-25949
-China Bowl,"Chinese, Thai, Japanese, Tibetan",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/china-bowl-south-campus-moti-bagh-delhi-30703
+Hari Om Bhojanalaya,North Indian,4.0,₹300 FOR TWO,https://swiggy.com/restaurants/hari-om-bhojanalaya-old-gupta-colony-kalyan-vihar-delhi-81087
+Vip RDX Resto & Bar,North Indian,4.0,₹350 FOR TWO,https://swiggy.com/restaurants/vip-rdx-resto-and-bar-hauz-khas-safdarjung-enclave-delhi-231505
+The Pal's Kitchen,"North Indian, Indian, Mughlai, Biryani",4.0,₹350 FOR TWO,https://swiggy.com/restaurants/the-pals-kitchen-gtb-nagar-hudson-lane-delhi-330424
+Deepak Fast Food,Chinese,4.0,₹300 FOR TWO,https://swiggy.com/restaurants/deepak-fast-food-vijay-nagar-gtb-nagar-delhi-149017
+Pasta Unplugged,"Pastas, Italian, Pizzas",4.0,₹500 FOR TWO,https://swiggy.com/restaurants/pasta-unplugged-lajpat-nagar-delhi-403828
+Punjabi Angithi,"North Indian, Chinese, Punjabi, Snacks",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/punjabi-angithi-ashok-vihar-delhi-326429
+PASRICHA'S DOSA JUNCTION,"South Indian, Fast Food",4.0,₹250 FOR TWO,https://swiggy.com/restaurants/pasrichas-dosa-junction-ina-market-ina-colony-delhi-20156
+Jhakkas Bombay Pav Bhaji,"Street Food, Snacks",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/jhakkas-bombay-pav-bhaji-lajpat-nagar-delhi-57800
+JAIN DHABA,"Tandoor, Indian, North Indian",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/jain-dhaba-laxmi-nagar-shahdara-delhi-351751
+Vir Ji Malai Chaap Wale,"North Indian, Chinese",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/vir-ji-malai-chaap-wale-greater-kailash-2-lajpat-nagar-delhi-405160
+Punikar Vadapav Centre,"Street Food, Maharashtrian",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/punikar-vadapav-centre-pandav-nagar-mayur-vihar-delhi-135205
+The Almighty Biryani,"Biryani, North Indian, Desserts, Beverages, Mughlai",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/the-almighty-biryani-south-extension-delhi-509011
+Amar Jyoti,"North Indian, Chinese",4.0,₹500 FOR TWO,https://swiggy.com/restaurants/amar-jyoti-sarojini-nagar-delhi-18729
+MBA in Khichdi,"North Indian, Healthy Food, Desserts, Beverages",4.0,₹250 FOR TWO,https://swiggy.com/restaurants/mba-in-khichdi-south-extension-delhi-505524
+NAGPAL HAVELI BLD,"Beverages, Salads",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/nagpal-haveli-bld-lajpat-nagar-delhi-448620
+Aggarwal Sweet India,"Sweets, Snacks",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/aggarwal-sweet-india-pandav-nagar-patparganj-delhi-201915
 No. 1 Uncles Parantha,"North Indian, Snacks, Beverages",4.0,₹150 FOR TWO,https://swiggy.com/restaurants/no-1-uncles-parantha-south-ex-1-south-extension-i-delhi-58739
 Kutty's South Indian Cafe,South Indian,4.0,₹300 FOR TWO,https://swiggy.com/restaurants/kuttys-south-indian-cafe-preet-vihar-swasthya-vihar-delhi-15645
 Tandoori Manzil,"Mughlai, North Indian, Chinese",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/tandoori-manzil-ganesh-nagar-mayur-vihar-delhi-17252
@@ -333,6 +350,7 @@ Faasos - Wraps & Rolls,"Fast Food, Snacks, North Indian, Indian, Healthy Food, D
 South Indian Fast Food,"South Indian, Chinese, North Indian",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/south-indian-fast-food-west-patel-nagar-west-patel-nagar-patel-nagar-delhi-43390
 Chinese Hawker,"Pan-Asian, Chinese, Thai, Seafood",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/chinese-hawker-karol-bagh-west-patel-nagar-patel-nagar-delhi-290891
 Venus Dhaba,North Indian,4.0,₹250 FOR TWO,https://swiggy.com/restaurants/venus-dhaba-patel-nagar-south-patel-nagar-delhi-102048
+Karim's (Dastar khwan e Karim),"Mughlai, Indian",4.0,₹700 FOR TWO,https://swiggy.com/restaurants/karims-dastar-khwan-e-karim-nizamuddin-nizamuddin-west-delhi-51035
 Keventers Ice Cream,"Ice Cream, Desserts",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/keventers-ice-cream-east-patel-nagar-delhi-353572
 THE F-SPOT,"Lebanese, Fast Food, Salads, Desserts, Pizzas",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/the-f-spot-karol-bagh-delhi-440980
 South Indian Cafe,"South Indian, Chinese",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/south-indian-cafe-rajinder-nagar-new-rajinder-nagar-delhi-46869
@@ -351,38 +369,35 @@ Kashmir Sweet Shop,"North Indian, Tandoor, Mughlai",4.0,₹200 FOR TWO,https://s
 Costa Grillz,"Chinese, Fast Food",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/costa-grillz-old-chandni-chowk-delhi-125999
 Odeon Sweets,"Snacks, Indian, Sweets",4.0,₹150 FOR TWO,https://swiggy.com/restaurants/odeon-sweets-gole-market-connaught-place-delhi-24246
 Home Plate by EatFit,"North Indian, Home Food, Healthy Food, Indian, Punjabi, South Indian, Rajasthani...",4.0,₹160 FOR TWO,https://swiggy.com/restaurants/home-plate-by-eatfit-chuna-mandi-paharganj-gole-market-delhi-279866
-THE F-SPOT,"Lebanese, Fast Food, Salads, Desserts, Pizzas",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/the-f-spot-karol-bagh-delhi-440980
-South Indian Cafe,"South Indian, Chinese",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/south-indian-cafe-rajinder-nagar-new-rajinder-nagar-delhi-46869
-Master Chef Kitchen,"Indian, Chinese, Tandoor, Fast Food",4.0,₹150 FOR TWO,https://swiggy.com/restaurants/master-chef-kitchen-karol-bagh-delhi-328632
-Punjabi Chaap Corner,"Tandoor, Indian, Chinese",4.0,₹350 FOR TWO,https://swiggy.com/restaurants/punjabi-chaap-corner-old-rajinder-nagar-delhi-49884
-Kaarobaar: The Modern-Desi Bistro,"North Indian, Chinese, Italian",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/kaarobaar-the-modern-desi-bistro-karol-bagh-rajinder-nagar-delhi-162874
-M Gopinath,South Indian,4.0,₹250 FOR TWO,https://swiggy.com/restaurants/m-gopinath-karol-bagh-old-rajinder-nagar-rajinder-nagar-delhi-68693
-Art of Spices,"North Indian, Fast Food, Mughlai",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/art-of-spices-pusa-road-north-extension-area-rajinder-nagar-delhi-25658
-The Yellow Bowl,"Chinese, Snacks",4.0,₹300 FOR TWO,https://swiggy.com/restaurants/the-yellow-bowl-old-delhi-delhi-396278
-Changezi Chicken (Daryaganj),"Indian, Mughlai",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/changezi-chicken-daryaganj-daryaganj-delhi-46599
-Veg Gulati (Pandara Road),"North Indian, Mughlai, Punjabi, Snacks, Desserts",4.0,₹1200 FOR TWO,https://swiggy.com/restaurants/veg-gulati-pandara-road-khan-market-pandara-road-delhi-31758
-Ganesh Restaurant,"North Indian, Mughlai, Tandoor",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/ganesh-restaurant-gurudwara-road-chowk-arya-samaj-road-karol-bagh-delhi-9873
-HOTEL MAIDAH,"North Indian, Snacks, Kebabs",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/hotel-maidah-old-delhi-delhi-387345
-GetAWhey - Healthy Ice creams.,"Ice Cream, Healthy Food, Desserts",4.0,₹250 FOR TWO,https://swiggy.com/restaurants/getawhey-healthy-ice-creams-connaught-place-delhi-405571
-Kashmir Sweet Shop,"North Indian, Tandoor, Mughlai",4.0,₹200 FOR TWO,https://swiggy.com/restaurants/kashmir-sweet-shop-paharganj-delhi-37522
-Costa Grillz,"Chinese, Fast Food",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/costa-grillz-old-chandni-chowk-delhi-125999
-Odeon Sweets,"Snacks, Indian, Sweets",4.0,₹150 FOR TWO,https://swiggy.com/restaurants/odeon-sweets-gole-market-connaught-place-delhi-24246
-Break n rolls,"Fast Food, Chinese, Snacks, Lebanese, American, Burgers",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/break-n-rolls-mayur-vihar-ganesh-nagar-delhi-362825
-Fingerlicious(Vikas Marg),"Desserts, Bakery, Snacks",3.9,₹250 FOR TWO,https://swiggy.com/restaurants/fingerlicious-vikas-marg-nirman-vihar-metro-station-laxmi-nagar-delhi-11335
-Murthal No.1 Parantha,"North Indian, Street Food, Punjabi, Snacks, Beverages",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/murthal-no-1-parantha-malviya-nagar-mayur-vihar-delhi-410374
-Rollsking,"Fast Food, North Indian, Beverages",3.9,₹250 FOR TWO,https://swiggy.com/restaurants/rollsking-flyover-market-defence-colony-lajpat-nagar-delhi-345823
-SON OF SWAAD,North Indian,3.9,₹300 FOR TWO,https://swiggy.com/restaurants/son-of-swaad-karol-bagh-patel-nagar-west-delhi-507938
-Bobby Tikki Wala,Fast Food,3.9,₹400 FOR TWO,https://swiggy.com/restaurants/bobby-tikki-wala-laxmi-nagar-delhi-40337
-Apni Rasoi,"North Indian, Chinese, Snacks",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/apni-rasoi-pandav-nagar-patparganj-delhi-32347
-Moti Mahal Delux ,"North Indian, Mughlai, Chinese, Biryani",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/moti-mahal-delux-east-patel-nagar-east-patel-nagar-patel-nagar-delhi-15936
-Om Corner Karol Bagh,North Indian,3.9,₹240 FOR TWO,https://swiggy.com/restaurants/om-corner-karol-bagh-karol-bagh-delhi-434730
-Amritsari Chaap Corner,Indian,3.9,₹250 FOR TWO,https://swiggy.com/restaurants/amritsari-chaap-corner-karol-bagh-delhi-514972
-BOX8 - Desi Meals,"North Indian, Biryani, Fast Food, Desserts",3.9,₹250 FOR TWO,https://swiggy.com/restaurants/box8-desi-meals-old-rajinder-nagar-delhi-371304
-Saravana Mess,"South Indian, North Indian, Biryani, Chinese",3.9,₹150 FOR TWO,https://swiggy.com/restaurants/saravana-mess-karol-bagh-delhi-314752
-Sri Annapurna restaurant,"South Indian, North Indian, Biryani",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/sri-annapurna-restaurant-karol-bagh-delhi-383844
-Khurana Restaurant,"Indian, Mughlai",3.9,₹500 FOR TWO,https://swiggy.com/restaurants/khurana-restaurant-karol-bagh-delhi-23256
-Wrapss Kathi Rolls,"Fast Food, Snacks",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/wrapss-kathi-rolls-north-extension-area-rajinder-nagar-karol-bagh-delhi-12369
-Arya Bhavan,"South Indian, Beverages",3.9,₹400 FOR TWO,https://swiggy.com/restaurants/arya-bhavan-karol-bagh-delhi-94172
+Ministry Of Cakes,Bakery,4.0,₹300 FOR TWO,https://swiggy.com/restaurants/ministry-of-cakes-karol-bagh-multani-dhanda-pahar-ganj-paharganj-delhi-183665
+Cha Bar,Cafe,4.0,₹500 FOR TWO,https://swiggy.com/restaurants/cha-bar-cp-connaught-place-delhi-9858
+It's Just Wings,"American, Fast Food, Snacks, Beverages, Desserts",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/its-just-wings-connaught-place-delhi-465323
+Pink box,"Bakery, Desserts, Sweets",4.0,₹150 FOR TWO,https://swiggy.com/restaurants/pink-box-outer-circle-connaught-place-delhi-42664
+Bagundi Andhra Kitchen,"Andhra, Biryani, South Indian, Thalis, Seafood",4.0,₹800 FOR TWO,https://swiggy.com/restaurants/bagundi-andhra-kitchen-cp-connaught-place-delhi-70205
+Starbucks Coffee,"Beverages, Ice Cream",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/starbucks-coffee-hamilton-house-connaught-place-delhi-69464
+Rajdhani,"Rajasthani, Thalis, Indian",4.0,₹1050 FOR TWO,https://swiggy.com/restaurants/rajdhani-scindia-house-connaught-place-delhi-8631
+Biryani Badshah,"Biryani, Mughlai, North Indian",4.0,₹350 FOR TWO,https://swiggy.com/restaurants/biryani-badshah-baba-kharak-singh-rd-connaught-place-delhi-114839
+Bikkgane Biryani,"Biryani, Mughlai, North Indian",4.0,₹400 FOR TWO,https://swiggy.com/restaurants/bikkgane-biryani-opposite-pvr-rivoli-connaught-place-delhi-8619
+Bhalla King,"Fast Food, Chaat, Sweets",3.9,₹150 FOR TWO,https://swiggy.com/restaurants/bhalla-king-lajpat-nagar-delhi-84163
+Rolls King,Indian,3.9,₹300 FOR TWO,https://swiggy.com/restaurants/rolls-king-gtb-nagar-delhi-569414
+Asia Bowl Co.,"Chinese, Thai",3.9,₹250 FOR TWO,https://swiggy.com/restaurants/asia-bowl-co-gtb-nagar-delhi-371340
+Begum Jaan by Hudson ,"North Indian, Mughlai",3.9,₹500 FOR TWO,https://swiggy.com/restaurants/begum-jaan-by-hudson-gtb-nagar-delhi-431441
+Punjabi Tikka Junction,"North Indian, Punjabi, Chinese",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/punjabi-tikka-junction-laxmi-nagar-geeta-colony-delhi-371290
+Chinese Veg Crunch,Chinese,3.9,₹300 FOR TWO,https://swiggy.com/restaurants/chinese-veg-crunch-ashok-vihar-delhi-343559
+Bharat Chicken Inn,"North Indian, Chinese",3.9,₹400 FOR TWO,https://swiggy.com/restaurants/bharat-chicken-inn-krishna-nagar-geeta-colony-delhi-65770
+The Yellow Bowl ,"Chinese, Fast Food, Snacks, Asian",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/the-yellow-bowl-patparganj-rd-krishna-nagar-geeta-colony-delhi-141957
+Wokway,"Chinese, Pan-Asian, Japanese, Seafood",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/wokway-south-extension-delhi-432134
+Shyam Chaat Bhandar,"Snacks, Street Food",3.9,₹150 FOR TWO,https://swiggy.com/restaurants/shyam-chaat-bhandar-vijay-nagar-delhi-49970
+KC restaurant,"Chinese, Asian, Snacks",3.9,₹250 FOR TWO,https://swiggy.com/restaurants/kc-restaurant-south-campus-moti-bagh-delhi-312289
+Beville by Weds & More,"Fast Food, Bakery, Cafe, Combo, Snacks, Continental, Healthy Food, Pastas, Pizza...",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/beville-by-weds-and-more-south-extension-delhi-212981
+Apni Dukan,"Chinese, Indian, Sweets",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/apni-dukan-g-t-road-shakti-nagar-delhi-191790
+Gupta Chat Corner,"Fast Food, North Indian, Snacks",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/gupta-chat-corner-a-block-preet-vihar-delhi-15232
+Shree Nandhini Cafe,"South Indian, Chinese",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/shree-nandhini-cafe-opposite-hanuman-mandir-vijay-nagar-delhi-49679
+Insta Pizza,"Pizzas, Italian, Beverages, Desserts",3.9,₹400 FOR TWO,https://swiggy.com/restaurants/insta-pizza-jangpura-new-lajpat-nagar-delhi-51188
+De Sethi's Pick-n-carry,"North Indian, Chinese",3.9,₹400 FOR TWO,https://swiggy.com/restaurants/de-sethis-pick-n-carry-1-lajpat-nagar-delhi-4440
+Sanskari Biryani,"Biryani, North Indian, Beverages, Desserts",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/sanskari-biryani-south-extension-delhi-506251
+Tikka Junction (Ashok Vihar),"Mughlai, North Indian",3.9,₹400 FOR TWO,https://swiggy.com/restaurants/tikka-junction-ashok-vihar-tishazari-shastri-nagar-delhi-64227
+Burger Point,"Beverages, Snacks, Italian, American",3.9,₹250 FOR TWO,https://swiggy.com/restaurants/burger-point-guru-nankpura-gali-number-4-laxmi-nagar-delhi-27189
 Chinese Hut Lajpat Nagar,Chinese,3.9,₹200 FOR TWO,https://swiggy.com/restaurants/chinese-hut-lajpat-nagar-lajpat-nagar-delhi-204497
 Haryana sweets & restaurant,"North Indian, Chinese",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/haryana-sweets-and-restaurant-south-ganesh-nagar-delhi-168292
 Break n rolls,"Fast Food, Chinese, Snacks, Lebanese, American, Burgers",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/break-n-rolls-mayur-vihar-ganesh-nagar-delhi-362825
@@ -399,6 +414,7 @@ Om Corner Karol Bagh,North Indian,3.9,₹240 FOR TWO,https://swiggy.com/restaura
 The Artful Baker,"Desserts, Bakery",3.9,₹600 FOR TWO,https://swiggy.com/restaurants/the-artful-baker-khan-market-rabindra-nagar-delhi-8422
 Amritsari Chaap Corner,Indian,3.9,₹250 FOR TWO,https://swiggy.com/restaurants/amritsari-chaap-corner-karol-bagh-delhi-514972
 BOX8 - Desi Meals,"North Indian, Biryani, Fast Food, Desserts",3.9,₹250 FOR TWO,https://swiggy.com/restaurants/box8-desi-meals-old-rajinder-nagar-delhi-371304
+Saravana Mess,"South Indian, North Indian, Biryani, Chinese",3.9,₹150 FOR TWO,https://swiggy.com/restaurants/saravana-mess-karol-bagh-delhi-314752
 Sri Annapurna restaurant,"South Indian, North Indian, Biryani",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/sri-annapurna-restaurant-karol-bagh-delhi-383844
 Khurana Restaurant,"Indian, Mughlai",3.9,₹500 FOR TWO,https://swiggy.com/restaurants/khurana-restaurant-karol-bagh-delhi-23256
 Wrapss Kathi Rolls,"Fast Food, Snacks",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/wrapss-kathi-rolls-north-extension-area-rajinder-nagar-karol-bagh-delhi-12369
@@ -414,7 +430,7 @@ Chawla De Mashoor Chur Chur Nan,North Indian,3.9,₹200 FOR TWO,https://swiggy.c
 Lazeez Affaire,"Indian, Chinese, North Indian, Tandoor, Mughlai, Desserts",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/lazeez-affaire-connaught-place-delhi-34475
 Embassy,"North Indian, Continental",3.9,₹1400 FOR TWO,https://swiggy.com/restaurants/embassy-connaught-place-delhi-9086
 Wow! Momo,"Tibetan, Healthy Food, Asian, Chinese, Snacks, Continental, Desserts, Beverages",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/wow-momo-new-railway-station-connaught-place-delhi-365634
-Bikanervala,"North Indian, Snacks, Chaat, Sweets",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/bikanervala-connaught-place-delhi-40414
+Punjab Grill,"North Indian, Indian, Biryani, Punjabi, Kebabs, Mughlai, Desserts",3.9,₹900 FOR TWO,https://swiggy.com/restaurants/punjab-grill-janpath-delhi-125872
 Bikanervala,"North Indian, Snacks, Chaat, Sweets",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/bikanervala-connaught-place-delhi-40414
 Desi Mojo,"North Indian, Continental, Chinese",3.9,₹200 FOR TWO,https://swiggy.com/restaurants/desi-mojo-paharganj-bharat-nagar-paharganj-delhi-81835
 Bhape Da Hotel,North Indian,3.9,₹850 FOR TWO,https://swiggy.com/restaurants/bhape-da-hotel-connaught-place-barakhamba-delhi-8638
@@ -426,27 +442,26 @@ Nirula's,"Pizzas, Pastas, Desserts, Ice Cream, Beverages, North Indian",3.9,₹3
 UBQ by Barbeque Nation,"North Indian, Barbecue, Biryani, Kebabs, Mughlai, Desserts",3.9,₹300 FOR TWO,https://swiggy.com/restaurants/ubq-by-barbeque-nation-munshi-lal-building-connaught-place-delhi-286518
 Barbeque Nation,"North Indian, Barbecue, Biryani, Kebabs, Mughlai, Desserts",3.9,₹600 FOR TWO,https://swiggy.com/restaurants/barbeque-nation-munshi-lal-building-connaught-place-delhi-302684
 Jain Chawal Wale,"North Indian, Snacks, Beverages",3.9,₹250 FOR TWO,https://swiggy.com/restaurants/jain-chawal-wale-connaught-place-delhi-557536
-KFC,"American, Snacks, Biryani",3.9,₹400 FOR TWO,https://swiggy.com/restaurants/kfc-kfc-paharganj-delhi-185160
+KFC,"American, Snacks, Biryani",3.9,₹400 FOR TWO,https://swiggy.com/restaurants/kfc-connaught-place-delhi-152971
 The 2nd Wife,North Indian,3.8,₹180 FOR TWO,https://swiggy.com/restaurants/the-2nd-wife-shahdara-krishna-nagar-delhi-103922
 Italio By Hudson Chopsticks,"Italian, Pastas, Pizzas",3.8,₹250 FOR TWO,https://swiggy.com/restaurants/italio-by-hudson-chopsticks-gtb-nagar-delhi-188554
 Pind Balluchi,"Mughlai, North Indian",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/pind-balluchi-central-market-lajpat-nagar-delhi-12756
 Sanjay Chur Chur Naan,North Indian,3.8,₹300 FOR TWO,https://swiggy.com/restaurants/sanjay-chur-chur-naan-moolchand-meetro-station-lajpat-nagar-delhi-15448
-Al kadeer Chicken corner,Mughlai,3.8,₹250 FOR TWO,https://swiggy.com/restaurants/al-kadeer-chicken-corner-mother-dairy-road-shakarpur-khas-delhi-168151
-Annie's Kerala Kitchen,"Kerala, South Indian",3.8,₹300 FOR TWO,https://swiggy.com/restaurants/annies-kerala-kitchen-karol-bagh-patel-nagar-delhi-369320
-Chinese Chong (Since1997),"Chinese, Pan-Asian, Continental, Italian, Fast Food, Snacks, Tibetan, Nepalese, ...",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/chinese-chong-since1997-old-rajender-nagar-rajinder-nagar-delhi-448963
-27 CHINA STREET,"Chinese, Snacks",3.8,₹300 FOR TWO,https://swiggy.com/restaurants/27-china-street-karol-bagh-delhi-555106
-Josie's Coffee House,"Beverages, Juices, Desserts",3.8,₹300 FOR TWO,https://swiggy.com/restaurants/josies-coffee-house-karol-bagh-rajinder-nagar-delhi-375547
-Suruchi Restaurant,"North Indian, Rajasthani, Fast Food, Gujarati",3.8,₹700 FOR TWO,https://swiggy.com/restaurants/suruchi-restaurant-ajmal-khan-road-karol-bagh-delhi-10167
-Waffle O'Clock,"Waffle, Desserts, Beverages",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/waffle-oclock-karol-bagh-rajinder-nagar-delhi-383325
-Nathu Sweets,"North Indian, Sweets, Desserts",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/nathu-sweets-sunder-nagar-sunder-nagar-lodhi-colony-delhi-26783
-Shama Chicken Corner,Mughlai,3.8,₹250 FOR TWO,https://swiggy.com/restaurants/shama-chicken-corner-old-rajendar-nagar-rajinder-nagar-delhi-177142
-Mom's Kitchen,"North Indian, Chinese, Thalis",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/moms-kitchen-karol-bagh-delhi-433794
-Marathi Katta,North Indian,3.8,₹200 FOR TWO,https://swiggy.com/restaurants/marathi-katta-rajinder-nagar-karol-bagh-delhi-86374
-Chin Chin Chew - By Kaarobaar,"Chinese, Asian",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/chin-chin-chew-by-kaarobaar-karol-bagh-delhi-386160
-Fresh Food and Caterer,"Indian, Chinese",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/fresh-food-and-caterer-karol-bagh-delhi-160471
-Om Ji Om,"North Indian, Fast Food",3.8,₹500 FOR TWO,https://swiggy.com/restaurants/om-ji-om-netaji-subhash-market-karol-bagh-delhi-77178
-Singh's Veg Grill Malai Chaap Wale,North Indian,3.8,₹300 FOR TWO,https://swiggy.com/restaurants/singhs-veg-grill-malai-chaap-wale-karol-bagh-old-rajinder-nagar-rajinder-nagar-delhi-314758
-Om Bhatura co.,"North Indian, Thalis, Beverages",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/om-bhatura-co-karol-bagh-delhi-473165
+Kake Da Hotel,"North Indian, Chinese, Snacks, Tandoor",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/kake-da-hotel-gtb-nagar-delhi-466188
+HANDI BIRYANI JUNCTION,"North Indian, Biryani, Snacks",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/handi-biryani-junction-gtb-nagar-vijay-nagar-delhi-348760
+HOUSE OF TIKKA,"Chinese, Mughlai, North Indian",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/house-of-tikka-ashok-vihar-delhi-474323
+The Belgian Waffle Co.,"Desserts, Beverages",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/the-belgian-waffle-co-hudson-lane-gtb-nagar-delhi-411287
+Bombay canteen,Indian,3.8,₹149 FOR TWO,https://swiggy.com/restaurants/bombay-canteen-lajpat-nagar-delhi-459706
+Friends Kitchen,"North Indian, Mughlai",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/friends-kitchen-gujranwala-town-ashok-vihar-delhi-108454
+Veer Ji Malai Chaap Wale,"North Indian, Chinese",3.8,₹300 FOR TWO,https://swiggy.com/restaurants/veer-ji-malai-chaap-wale-lajpat-nagar-delhi-463378
+Delhi6 Bedmi Poori,"North Indian, Snacks, Beverages, Desserts",3.8,₹100 FOR TWO,https://swiggy.com/restaurants/delhi6-bedmi-poori-lajpat-nagar-delhi-427890
+Aamantran Bangla,Bengali,3.8,₹150 FOR TWO,https://swiggy.com/restaurants/aamantran-bangla-pandav-nagar-patparganj-delhi-18324
+The Yellow Chilli,"North Indian, Mughlai, Chinese, Desserts, Beverages",3.8,₹500 FOR TWO,https://swiggy.com/restaurants/the-yellow-chilli-v3s-mall-laxmi-nagar-swasthya-vihar-delhi-350145
+Linguini- Artisan Pizzas and Pastas,"Pizzas, Italian, Beverages",3.8,₹600 FOR TWO,https://swiggy.com/restaurants/linguini-artisan-pizzas-and-pastas-lajpat-nagar-greater-kailash-delhi-371220
+Dah,Desserts,3.8,₹400 FOR TWO,https://swiggy.com/restaurants/dah-defence-colony-delhi-140416
+H.Rolls & shawarma,Snacks,3.8,₹200 FOR TWO,https://swiggy.com/restaurants/h-rolls-and-shawarma-krishna-kunj-laxmi-nagar-delhi-81517
+Chef Joint,"North Indian, Chinese",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/chef-joint-jangpura-extension-block-b-delhi-26071
+Unmarried Kitchen - Value Meals and Combos,"North Indian, Punjabi, Biryani, Healthy Food, Thalis, Indian, Mughlai, Desserts",3.8,₹300 FOR TWO,https://swiggy.com/restaurants/unmarried-kitchen-value-meals-and-combos-preet-vihar-east-laxmi-nagar-delhi-491185
 Indian Taste,"Indian, Chinese",3.8,₹149 FOR TWO,https://swiggy.com/restaurants/indian-taste-mayur-vihar-laxmi-nagar-delhi-430891
 King Shawarma - East Patel Nagar,"Italian, Chinese, Snacks",3.8,₹300 FOR TWO,https://swiggy.com/restaurants/king-shawarma-east-patel-nagar-east-patel-nagar-east-patel-nagar-patel-nagar-delhi-32314
 34 Chowringhee Lane (Patel Nagar),"Fast Food, North Indian",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/34-chowringhee-lane-patel-nagar-west-patel-nagar-karol-bagh-delhi-437444
@@ -463,6 +478,7 @@ Waffle O'Clock,"Waffle, Desserts, Beverages",3.8,₹200 FOR TWO,https://swiggy.c
 Nathu Sweets,"North Indian, Sweets, Desserts",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/nathu-sweets-sunder-nagar-sunder-nagar-lodhi-colony-delhi-26783
 Shama Chicken Corner,Mughlai,3.8,₹250 FOR TWO,https://swiggy.com/restaurants/shama-chicken-corner-old-rajendar-nagar-rajinder-nagar-delhi-177142
 Mom's Kitchen,"North Indian, Chinese, Thalis",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/moms-kitchen-karol-bagh-delhi-433794
+Marathi Katta,North Indian,3.8,₹200 FOR TWO,https://swiggy.com/restaurants/marathi-katta-rajinder-nagar-karol-bagh-delhi-86374
 Chin Chin Chew - By Kaarobaar,"Chinese, Asian",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/chin-chin-chew-by-kaarobaar-karol-bagh-delhi-386160
 Fresh Food and Caterer,"Indian, Chinese",3.8,₹400 FOR TWO,https://swiggy.com/restaurants/fresh-food-and-caterer-karol-bagh-delhi-160471
 Om Ji Om,"North Indian, Fast Food",3.8,₹500 FOR TWO,https://swiggy.com/restaurants/om-ji-om-netaji-subhash-market-karol-bagh-delhi-77178
@@ -478,7 +494,6 @@ The Biryani Life,"Biryani, Hyderabadi, Lucknowi, North Indian, Mughlai, Desserts
 Al Yamin,"Mughlai, Biryani, Kebabs",3.8,₹300 FOR TWO,https://swiggy.com/restaurants/al-yamin-old-jama-masjid-old-delhi-delhi-140521
 THALASSERY RESTAURANT,"North Indian, Indian",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/thalassery-restaurant-karol-bagh-paharganj-delhi-364739
 The Burger Club,"American, Beverages, Desserts",3.8,₹250 FOR TWO,https://swiggy.com/restaurants/the-burger-club-main-market-karol-bagh-delhi-47853
-Wat-A-Burger! - India ka Burger,"American, Indian, Snacks, Desserts, Beverages",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/wat-a-burger-india-ka-burger-connaught-place-delhi-157585
 Wat-A-Burger! - India ka Burger,"American, Indian, Snacks, Desserts, Beverages",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/wat-a-burger-india-ka-burger-connaught-place-delhi-157585
 Rooh Burger Cafe,"American, Fast Food, Beverages",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/rooh-burger-cafe-connaught-place-delhi-39209
 Swagat Dhaba,"North Indian, Punjabi, South Indian",3.8,₹200 FOR TWO,https://swiggy.com/restaurants/swagat-dhaba-paharganj-delhi-81836
@@ -496,6 +511,7 @@ Kaveri food,North Indian,3.7,₹200 FOR TWO,https://swiggy.com/restaurants/kaver
 Cafe lucid,"South Indian, North Indian, Chinese, Beverages, Punjabi, Tandoor, Indian, Thalis...",3.7,₹150 FOR TWO,https://swiggy.com/restaurants/cafe-lucid-gtb-nagar-vijay-nagar-delhi-303820
 Alkakori Alkauser,Mughlai,3.7,₹400 FOR TWO,https://swiggy.com/restaurants/alkakori-alkauser-laxmi-nagar-delhi-389315
 Play Pizza,"Pizzas, Pastas",3.7,₹400 FOR TWO,https://swiggy.com/restaurants/play-pizza-dda-market-nirman-vihar-delhi-10977
+Play Pizza,"Pizzas, Pastas",3.7,₹400 FOR TWO,https://swiggy.com/restaurants/play-pizza-dda-market-nirman-vihar-delhi-10977
 Pizza Studio,"Pizzas, Pastas, Beverages",3.7,₹400 FOR TWO,https://swiggy.com/restaurants/pizza-studio-mayur-vihar-phase-1-nirman-vihar-delhi-32087
 Shri Sai Rasoi,"North Indian, South Indian",3.7,₹200 FOR TWO,https://swiggy.com/restaurants/shri-sai-rasoi-gurudwara-road-south-extension-i-delhi-152288
 Ranch And Pepper,"American, Italian-American, Continental, Bhutanese",3.7,₹450 FOR TWO,https://swiggy.com/restaurants/ranch-and-pepper-defence-colony-delhi-486706
@@ -511,13 +527,11 @@ House of Chow,"Pan-Asian, Chinese, Thai",3.7,₹300 FOR TWO,https://swiggy.com/r
 Rominus Pizza And Burger,"Pizzas, Italian, American, Snacks, Desserts, Beverages, Italian-American",3.7,₹150 FOR TWO,https://swiggy.com/restaurants/rominus-pizza-and-burger-laxmi-nagar-delhi-417161
 La Pino'z Pizza,"Pizzas, Pastas, Mexican, Italian",3.7,₹350 FOR TWO,https://swiggy.com/restaurants/la-pinoz-pizza-karol-bagh-patel-nagar-delhi-523200
 ROTI AUR BOTI XPRESS,North Indian,3.7,₹450 FOR TWO,https://swiggy.com/restaurants/roti-aur-boti-xpress-karol-bagh-delhi-379059
-Perch Wine and Coffee Bar,European,3.7,₹1800 FOR TWO,https://swiggy.com/restaurants/perch-wine-and-coffee-bar-khan-market-delhi-301991
 Moolchands Pure Veg,"North Indian, South Indian, Italian, Beverages, Desserts",3.7,₹250 FOR TWO,https://swiggy.com/restaurants/moolchands-pure-veg-karol-bagh-delhi-34472
 KING CHINESE POINT,Indian,3.7,₹200 FOR TWO,https://swiggy.com/restaurants/king-chinese-point-karol-bagh-delhi-298180
 SRI SARAVANA BHAVAN,South Indian,3.7,₹180 FOR TWO,https://swiggy.com/restaurants/sri-saravana-bhavan-karol-bagh-delhi-374828
 Oberoi Biryani,"North Indian, Mughlai",3.7,₹400 FOR TWO,https://swiggy.com/restaurants/oberoi-biryani-rajinder-nagar-old-rajinder-nagar-rajinder-nagar-delhi-39221
 Shawarma Kings,"Lebanese, Chinese, Snacks",3.7,₹200 FOR TWO,https://swiggy.com/restaurants/shawarma-kings-apsara-arcade-rajinder-nagar-delhi-12366
-Chowringhee,"Indian, Chinese, Street Food, Beverages",3.7,₹250 FOR TWO,https://swiggy.com/restaurants/chowringhee-china-market-karol-bagh-delhi-43008
 Pizza Hut,Pizzas,3.7,₹350 FOR TWO,https://swiggy.com/restaurants/pizza-hut-wea-tank-road-karol-bagh-delhi-435678
 Karim's Jama Masjid,"Mughlai, North Indian",3.7,₹400 FOR TWO,https://swiggy.com/restaurants/karims-jama-masjid-old-jama-masjid-delhi-310645
 Paratha Box by EatFit,"North Indian, Punjabi, Indian, Home Food, Combo, Beverages",3.7,₹250 FOR TWO,https://swiggy.com/restaurants/paratha-box-by-eatfit-laxmi-narain-street-karol-bagh-delhi-432785
@@ -529,36 +543,43 @@ United Coffee House,"Indian, Asian, European, Street Food",3.7,₹2500 FOR TWO,h
 Zen,"Chinese, Pan-Asian, Seafood, Japanese, Sushi, Italian",3.7,₹700 FOR TWO,https://swiggy.com/restaurants/zen-b-block-connaught-place-delhi-14593
 Southy,"South Indian, Snacks, Beverages",3.7,₹400 FOR TWO,https://swiggy.com/restaurants/southy-cp-barakhamba-delhi-45854
 BurGrub,"American, Fast Food, Beverages",3.7,₹350 FOR TWO,https://swiggy.com/restaurants/burgrub-connaught-place-delhi-274430
+Southy,"South Indian, Snacks, Beverages",3.7,₹400 FOR TWO,https://swiggy.com/restaurants/southy-cp-barakhamba-delhi-45854
+BurGrub,"American, Fast Food, Beverages",3.7,₹350 FOR TWO,https://swiggy.com/restaurants/burgrub-connaught-place-delhi-274430
 Tandoori Handi (Since 1999) ,"North Indian, Chinese, Mughlai, Tandoor, Afghani, Kebabs, Indian, Biryani, Punja...",3.7,₹250 FOR TWO,https://swiggy.com/restaurants/tandoori-handi-since-1999-connaught-place-delhi-435019
-Oven Story Pizza,"Pizzas, Italian",3.7,₹400 FOR TWO,https://swiggy.com/restaurants/oven-story-pizza-gandhi-market-barakhamba-delhi-25397
 Subway,"Salads, Snacks, Desserts, Beverages",3.7,₹350 FOR TWO,https://swiggy.com/restaurants/subway-m-block-connaught-place-delhi-16418
-Flavours of Punjab,"North Indian, Mughlai, Chinese",3.7,₹300 FOR TWO,https://swiggy.com/restaurants/flavours-of-punjab-karol-bagh-rajinder-nagar-delhi-9826
 Jack Rolls,"Fast Food, Street Food, Snacks",3.6,₹150 FOR TWO,https://swiggy.com/restaurants/jack-rolls-gtb-nagar-delhi-university-gtb-nagar-delhi-177930
 Punjabi Big Meals,"North Indian, Fast Food, Chinese, Street Food, Punjabi, Tandoor, Snacks, Combo, ...",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/punjabi-big-meals-phase-3-ashok-vihar-delhi-254724
 Green Dot Pizza,"Pizzas, Italian, Beverages, Desserts",3.6,₹300 FOR TWO,https://swiggy.com/restaurants/green-dot-pizza-gtb-nagar-delhi-555443
 Punjabi's Veg Grill ( jheel wale ),"North Indian, Tandoor, Chinese",3.6,₹350 FOR TWO,https://swiggy.com/restaurants/punjabis-veg-grill-jheel-wale-jheel-khuranja-geeta-colony-delhi-416254
+Chowringhee,"Street Food, Lebanese",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/chowringhee-gtb-nagar-vijay-nagar-delhi-7622
 Jeet Restaurant,"North Indian, Chinese",3.6,₹350 FOR TWO,https://swiggy.com/restaurants/jeet-restaurant-chander-nagar-krishna-nagar-delhi-54977
 Hira Sweets Express,"North Indian, South Indian, Chinese, Continental, Bakery, Street Food, Sweets, D...",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/hira-sweets-express-ashok-vihar-shastri-nagar-delhi-303617
 Winner Pizzas (Fresh Dough),"Pizzas, Italian, Fast Food, Snacks, Desserts, Beverages",3.6,₹300 FOR TWO,https://swiggy.com/restaurants/winner-pizzas-fresh-dough-south-extension-delhi-451869
 Heavens Cafe & Bakery,"Bakery, Beverages, Desserts",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/heavens-cafe-and-bakery-ashok-vihar-karol-bagh-delhi-224924
 Kailash ji Rasoi,Indian,3.6,₹299 FOR TWO,https://swiggy.com/restaurants/kailash-ji-rasoi-south-extension-south-extension-i-delhi-309633
 Aashirwad Restaurant,North Indian,3.6,₹400 FOR TWO,https://swiggy.com/restaurants/aashirwad-restaurant-mangal-bazar-road-laxmi-nagar-delhi-34223
-Aashirwad Restaurant,North Indian,3.6,₹400 FOR TWO,https://swiggy.com/restaurants/aashirwad-restaurant-mangal-bazar-road-laxmi-nagar-delhi-34223
 Make My Thali by Punjabi Tadka,"North Indian, Chinese, Fast Food",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/make-my-thali-by-punjabi-tadka-laxmi-nagar-mangal-bazar-delhi-133583
-Riyaz Biryani Corner,"North Indian, Mughlai",3.6,₹450 FOR TWO,https://swiggy.com/restaurants/riyaz-biryani-corner-shakurpur-shakarpur-khas-delhi-71911
-The Yellow Bite,"Beverages, Snacks",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/the-yellow-bite-karol-bagh-patel-nagar-delhi-231639
-Standard Cakes & Bakes,"Bakery, Desserts",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/standard-cakes-and-bakes-east-patel-nagar-delhi-76033
-ROYAL CHINESE CORNER,Chinese,3.6,₹150 FOR TWO,https://swiggy.com/restaurants/royal-chinese-corner-karol-bagh-delhi-398785
-ARSHAD  ALI  SHAHI  BIRYANI,"Biryani, Mughlai, North Indian",3.6,₹250 FOR TWO,https://swiggy.com/restaurants/arshad-ali-shahi-biryani-khan-market-nizamuddin-west-delhi-232198
-Chinese Monk,"Chinese, Continental, Pan-Asian, Thai, Asian, Tibetan, Nepalese, Italian-America...",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/chinese-monk-old-rajender-nagar-karol-bagh-delhi-437140
-ZAZA 22 Spice Biryani,"Biryani, North Indian, Mughlai",3.6,₹250 FOR TWO,https://swiggy.com/restaurants/zaza-22-spice-biryani-old-rajinder-nagar-karol-bagh-delhi-391107
-Lord of the Rolls,"Chinese, North Indian, Biryani",3.6,₹250 FOR TWO,https://swiggy.com/restaurants/lord-of-the-rolls-karol-bagh-north-extension-area-rajinder-nagar-delhi-317875
-Chawlas2 (Since 1960),"Mughlai, North Indian",3.6,₹400 FOR TWO,https://swiggy.com/restaurants/chawlas2-since-1960-karol-bagh-delhi-25962
-Alkauser,Mughlai,3.6,₹400 FOR TWO,https://swiggy.com/restaurants/alkauser-rajinder-nagar-rajender-nagar-part-1-new-rajinder-nagar-delhi-22608
-La Milano Pizzeria,"Italian, Pizzas, Mexican, Desserts, Beverages",3.6,₹500 FOR TWO,https://swiggy.com/restaurants/la-milano-pizzeria-rajinder-nagar-delhi-54931
-Al Jawahar Restaurant (Jama Masjid),"Mughlai, North Indian",3.6,₹400 FOR TWO,https://swiggy.com/restaurants/al-jawahar-restaurant-jama-masjid-jama-masjid-daryaganj-delhi-41890
-Wrap & Roll,"Fast Food, Chinese, Snacks",3.6,₹400 FOR TWO,https://swiggy.com/restaurants/wrap-and-roll-apsara-arcade-north-extension-area-rajinder-nagar-delhi-10157
-PUNJABI CHASKA,"Thalis, Indian, Fast Food, Punjabi",3.6,₹200 FOR TWO,https://swiggy.com/restaurants/punjabi-chaska-karol-bagh-paharganj-delhi-313905
+Mezbaan Biryani,"Indian, Biryani, Beverages",3.5,₹250 FOR TWO,https://swiggy.com/restaurants/mezbaan-biryani-paharganj-mukherjee-nagar-delhi-67235
+Best Muradabadi Biryani,"Biryani, Mughlai, North Indian",3.5,₹250 FOR TWO,https://swiggy.com/restaurants/best-muradabadi-biryani-gtb-nagar-mukherjee-nagar-delhi-143734
+Feed Me More,"North Indian, Chinese, Snacks",3.5,₹300 FOR TWO,https://swiggy.com/restaurants/feed-me-more-laxmi-nagar-delhi-502857
+Five Star Chicken,American,3.5,₹300 FOR TWO,https://swiggy.com/restaurants/five-star-chicken-laxmi-nagar-delhi-402584
+High On Shakes,Indian,3.5,₹200 FOR TWO,https://swiggy.com/restaurants/high-on-shakes-south-moti-bagh-delhi-222743
+The Chaap Factory,"North Indian, Snacks",3.5,₹200 FOR TWO,https://swiggy.com/restaurants/the-chaap-factory-laxmi-nagar-delhi-390273
+Chicken Paradise,"North Indian, Chinese, Snacks",3.5,₹300 FOR TWO,https://swiggy.com/restaurants/chicken-paradise-laxmi-nagar-delhi-502709
+THE CRYPTO DOOR,"Italian, Burgers, Beverages",3.5,₹400 FOR TWO,https://swiggy.com/restaurants/the-crypto-door-gtb-nagar-vijay-nagra-delhi-371120
+The Great Indian Dosa,"South Indian, Beverages",3.5,₹250 FOR TWO,https://swiggy.com/restaurants/the-great-indian-dosa-gtb-nagar-delhi-70819
+DELHI WAH JI WAH,"Tandoor, Snacks, Indian",3.5,₹200 FOR TWO,https://swiggy.com/restaurants/delhi-wah-ji-wah-gtb-nagar-vijay-nagar-delhi-343082
+Kake Di Hatti (Vijay Nagar),North Indian,3.5,₹300 FOR TWO,https://swiggy.com/restaurants/kake-di-hatti-vijay-nagar-vijay-nagar-hudson-lane-delhi-148469
+piu pizza hut,"Italian, Pizzas",3.5,₹200 FOR TWO,https://swiggy.com/restaurants/piu-pizza-hut-laxmi-nagar-delhi-407802
+Saleem's Restaurant,North Indian,3.5,₹600 FOR TWO,https://swiggy.com/restaurants/saleems-restaurant-flyover-market-defence-colony-delhi-17276
+PANDIT JI PARANTHA COMPANY,"North Indian, Beverages",3.5,₹200 FOR TWO,https://swiggy.com/restaurants/pandit-ji-parantha-company-gtb-nagar-delhi-437110
+Pyaali restaurant,"North Indian, South Indian, Chinese",3.5,₹300 FOR TWO,https://swiggy.com/restaurants/pyaali-restaurant-luxmi-nagar-laxmi-nagar-delhi-31456
+Roms Pizza,"Pizzas, Italian-American, Beverages, Desserts",3.5,₹250 FOR TWO,https://swiggy.com/restaurants/roms-pizza-laxmi-nagar-shakarpur-khas-delhi-285723
+Mughal Mahal,"North Indian, Mughlai",3.5,₹1100 FOR TWO,https://swiggy.com/restaurants/mughal-mahal-karol-bagh-delhi-465704
+Chefs kitchen,North Indian,3.5,₹200 FOR TWO,https://swiggy.com/restaurants/chefs-kitchen-db-gupta-road-karol-bagh-delhi-77634
+Chinz Chinese (Since1999),"Chinese, Pan-Asian, Thai, Tibetan, Snacks, Nepalese, Beverages, Continental, Ita...",3.5,₹200 FOR TWO,https://swiggy.com/restaurants/chinz-chinese-since1999-old-rajender-nagar-old-rajinder-nagar-delhi-418111
+SGF - Spice Grill Flame (Karol Bagh),"North Indian, Chinese, Fast Food",3.5,₹250 FOR TWO,https://swiggy.com/restaurants/sgf-spice-grill-flame-karol-bagh-d-b-gupta-road-karol-bagh-sant-nagar-karol-bagh-delhi-174349
+THE SOUTHERN KITCHEN,"South Indian, North Indian",3.5,₹200 FOR TWO,https://swiggy.com/restaurants/the-southern-kitchen-karol-bagh-rajinder-nagar-delhi-362666
 Thali Wala,"North Indian, Chinese, Indian, Thalis",3.5,₹250 FOR TWO,https://swiggy.com/restaurants/thali-wala-pooja-park-karol-bagh-delhi-12370
 Krishna fast food center,"Chinese, Fast Food",3.4,₹250 FOR TWO,https://swiggy.com/restaurants/krishna-fast-food-center-ashok-vihar-delhi-83171
 Metro Fast Food,Chinese,3.4,₹150 FOR TWO,https://swiggy.com/restaurants/metro-fast-food-university-gtb-nagar-new-delhi-delhi-25190
@@ -575,22 +596,23 @@ Chawla Refreshment,"Beverages, Ice Cream",3.3,₹150 FOR TWO,https://swiggy.com/
 Shyam ji Snacks,"North Indian, Snacks, Beverages",3.3,₹20 FOR TWO,https://swiggy.com/restaurants/shyam-ji-snacks-gandhi-nagar-delhi-498419
 Moti Mahal Delux Legendary Culinary,"Mughlai, North Indian",3.3,₹1200 FOR TWO,https://swiggy.com/restaurants/moti-mahal-delux-legendary-culinary-south-extension-ii-delhi-8917
 Chander Dhaba,North Indian,3.3,₹200 FOR TWO,https://swiggy.com/restaurants/chander-dhaba-mathura-road-sunlight-colony-delhi-44016
-Moti Mahal Delux Legendary Culinary,"Mughlai, North Indian",3.3,₹1200 FOR TWO,https://swiggy.com/restaurants/moti-mahal-delux-legendary-culinary-south-extension-ii-delhi-8917
-Chander Dhaba,North Indian,3.3,₹200 FOR TWO,https://swiggy.com/restaurants/chander-dhaba-mathura-road-sunlight-colony-delhi-44016
 The Biryani Point,"Biryani, Chinese",3.3,₹399 FOR TWO,https://swiggy.com/restaurants/the-biryani-point-rana-partap-bagh-kalyan-vihar-delhi-148447
-Chawla Refreshment,"Beverages, Ice Cream",3.3,₹150 FOR TWO,https://swiggy.com/restaurants/chawla-refreshment-main-road-geeta-colony-east-krishna-nagar-delhi-222218
+Ruby Dhaba (since 1988),Indian,3.3,₹250 FOR TWO,https://swiggy.com/restaurants/ruby-dhaba-since-1988-laxmi-nagar-delhi-445776
+BIHAR DHABA,North Indian,3.3,₹200 FOR TWO,https://swiggy.com/restaurants/bihar-dhaba-mayur-vihar-patparganj-delhi-270087
+Wok 88,Chinese,3.3,₹500 FOR TWO,https://swiggy.com/restaurants/wok-88-1-lajpat-nagar-delhi-127106
+Ram ji Samose wala,Snacks,3.3,₹150 FOR TWO,https://swiggy.com/restaurants/ram-ji-samose-wala-laxmi-nagar-shakarpur-khas-delhi-204678
+grill out tandoor and fast food,"Tandoor, Chinese",3.3,₹350 FOR TWO,https://swiggy.com/restaurants/grill-out-tandoor-and-fast-food-shakarpur-delhi-181287
+Armaan Restaurant,"North Indian, Chinese",3.3,₹250 FOR TWO,https://swiggy.com/restaurants/armaan-restaurant-mini-market-11-pragati-vihar-delhi-12903
 Imly,"South Indian, Chinese, Street Food, Maharashtrian, Snacks, Mughlai, North Indian...",3.3,₹700 FOR TWO,https://swiggy.com/restaurants/imly-hog-market-rajnedra-place-north-extension-area-rajinder-nagar-delhi-21867
 Desi Tadka,"Mughlai, North Indian, Chinese",3.3,₹500 FOR TWO,https://swiggy.com/restaurants/desi-tadka-pooja-park-karol-bagh-delhi-10413
-Ram ji Samose wala,Snacks,3.3,₹150 FOR TWO,https://swiggy.com/restaurants/ram-ji-samose-wala-laxmi-nagar-shakarpur-khas-delhi-204678
 Ghoomar traditional thali restaurant,Indian,3.3,₹700 FOR TWO,https://swiggy.com/restaurants/ghoomar-traditional-thali-restaurant-connaught-place-delhi-138677
-Gupta Foods,"North Indian, Chinese, South Indian",3.3,₹300 FOR TWO,https://swiggy.com/restaurants/gupta-foods-middle-circle-connaught-place-delhi-22866
 Gupta Restaurant,"North Indian, South Indian, Chinese",3.3,₹200 FOR TWO,https://swiggy.com/restaurants/gupta-restaurant-gole-market-delhi-76884
+Gupta Foods,"North Indian, Chinese, South Indian",3.3,₹300 FOR TWO,https://swiggy.com/restaurants/gupta-foods-middle-circle-connaught-place-delhi-22866
 Prince Cafe,"Fast Food, South Indian",3.2,₹200 FOR TWO,https://swiggy.com/restaurants/prince-cafe-krishna-nagar-delhi-34642
-Hot & Spot Fast Food,"Chinese, Fast Food",3.2,₹200 FOR TWO,https://swiggy.com/restaurants/hot-and-spot-fast-food-gtb-nagar-delhi-107766
-GARHWAL MAHAK CHINESE FOOD,North Indian,3.2,₹300 FOR TWO,https://swiggy.com/restaurants/garhwal-mahak-chinese-food-south-extension-ina-colony-delhi-310060
-Noor Hyderabadi,Indian,3.2,₹250 FOR TWO,https://swiggy.com/restaurants/noor-hyderabadi-gtb-nagar-mukherjee-nagar-delhi-334812
 Captain Sam's Pizza,"Pizzas, Desserts, Beverages",3.2,₹300 FOR TWO,https://swiggy.com/restaurants/captain-sams-pizza-rajouri-garden-kirti-nagar-delhi-510649
-Pure Veg Meals by Lunchbox,"North Indian, Desserts, Biryani",3.2,₹200 FOR TWO,https://swiggy.com/restaurants/pure-veg-meals-by-lunchbox-near-metro-station-shakarpur-khas-delhi-263577
+Noor Hyderabadi,Indian,3.2,₹250 FOR TWO,https://swiggy.com/restaurants/noor-hyderabadi-gtb-nagar-mukherjee-nagar-delhi-334812
+Hot & Spot Fast Food,"Chinese, Fast Food",3.2,₹200 FOR TWO,https://swiggy.com/restaurants/hot-and-spot-fast-food-gtb-nagar-delhi-107766
+Tandoori Tadka,"North Indian, Chinese",3.2,₹250 FOR TWO,https://swiggy.com/restaurants/tandoori-tadka-defence-enclave-swasthya-vihar-delhi-13065
 GARHWAL MAHAK CHINESE FOOD,North Indian,3.2,₹300 FOR TWO,https://swiggy.com/restaurants/garhwal-mahak-chinese-food-south-extension-ina-colony-delhi-310060
 Anju Sweets,"Desserts, Sweets, South Indian, Chinese, Fast Food, Bakery, Beverages, Street Fo...",3.2,₹250 FOR TWO,https://swiggy.com/restaurants/anju-sweets-shastri-nagar-karol-bagh-delhi-202981
 Pure Veg Meals by Lunchbox,"North Indian, Desserts, Biryani",3.2,₹200 FOR TWO,https://swiggy.com/restaurants/pure-veg-meals-by-lunchbox-near-metro-station-shakarpur-khas-delhi-263577
@@ -607,14 +629,6 @@ Bikaner sweets,"Desserts, Fast Food",3.0,₹430 FOR TWO,https://swiggy.com/resta
 Domi'D Pizza,"Italian, Indian",3.0,₹200 FOR TWO,https://swiggy.com/restaurants/domid-pizza-nai-basti-anand-parbat-delhi-164163
 Hudson Chinese,"Chinese, Pan-Asian, Continental, Italian, Tibetan, Nepalese, Thai, Asian, Fast F...",3.0,₹200 FOR TWO,https://swiggy.com/restaurants/hudson-chinese-old-rajender-nagar-karol-bagh-delhi-448952
 Mehfil Biryani by Zakir Khan,"Biryani, Mughlai, Lucknowi, Hyderabadi, Kebabs, North Indian, Desserts, Beverage...",3.0,₹350 FOR TWO,https://swiggy.com/restaurants/mehfil-biryani-by-zakir-khan-karol-bagh-delhi-508319
-Bewafa Biryani Wala,"Chinese, North Indian",3.1,₹200 FOR TWO,https://swiggy.com/restaurants/bewafa-biryani-wala-mayur-vihar-vinod-nagar-north-delhi-225512
-King Shawarma Xpress (East Patel Nagar),"Lebanese, Chinese",3.1,₹300 FOR TWO,https://swiggy.com/restaurants/king-shawarma-xpress-east-patel-nagar-karol-bagh-delhi-403201
-YIN AND YANG,"Chinese, Pan-Asian, Snacks",3.1,₹400 FOR TWO,https://swiggy.com/restaurants/yin-and-yang-karol-bagh-delhi-407280
-The Dhaba Junction,"Indian, Thalis, Chinese, Pizzas, Italian, Biryani, Beverages",3.1,₹450 FOR TWO,https://swiggy.com/restaurants/the-dhaba-junction-karol-bagh-delhi-232480
-Bikaner sweets,"Desserts, Fast Food",3.0,₹430 FOR TWO,https://swiggy.com/restaurants/bikaner-sweets-laxmi-nagar-geeta-colony-delhi-222246
-Domi'D Pizza,"Italian, Indian",3.0,₹200 FOR TWO,https://swiggy.com/restaurants/domid-pizza-nai-basti-anand-parbat-delhi-164163
-Hudson Chinese,"Chinese, Pan-Asian, Continental, Italian, Tibetan, Nepalese, Thai, Asian, Fast F...",3.0,₹200 FOR TWO,https://swiggy.com/restaurants/hudson-chinese-old-rajender-nagar-karol-bagh-delhi-448952
-Mehfil Biryani by Zakir Khan,"Biryani, Mughlai, Lucknowi, Hyderabadi, Kebabs, North Indian, Desserts, Beverage...",3.0,₹350 FOR TWO,https://swiggy.com/restaurants/mehfil-biryani-by-zakir-khan-karol-bagh-delhi-508319
 Indian & Mughlai King,"North Indian, Mughlai, Chinese, Thalis, Indian, Seafood",3.0,₹400 FOR TWO,https://swiggy.com/restaurants/indian-and-mughlai-king-pooja-park-karol-bagh-delhi-33179
 hyderabadi Biryani bhawan,"Biryani, North Indian, Seafood, Combo",3.0,₹400 FOR TWO,https://swiggy.com/restaurants/hyderabadi-biryani-bhawan-karol-bagh-delhi-385310
 Swaad Palace,"Chinese, Snacks, Beverages",3.0,₹150 FOR TWO,https://swiggy.com/restaurants/swaad-palace-karol-bagh-delhi-506355
@@ -623,22 +637,22 @@ Punjabi nitin vaishno dhaba,North Indian,3.0,₹300 FOR TWO,https://swiggy.com/r
 SPICES OF SOUTH,"Fast Food, South Indian",2.9,₹150 FOR TWO,https://swiggy.com/restaurants/spices-of-south-laxmi-nagar-krishna-nagar-delhi-255366
 Chinese potli,Indian,2.9,₹80 FOR TWO,https://swiggy.com/restaurants/chinese-potli-laxmi-nagar-krishna-nagar-delhi-245520
 Burger Bites,"Chinese, Continental",2.8,₹300 FOR TWO,https://swiggy.com/restaurants/burger-bites-ashok-vihar-delhi-499112
-Mother India,"Chinese, Indian",--•,350 FOR TWO,https://swiggy.com/restaurants/mother-india-south-extension-delhi-577868
-The China Kitchen - Hyatt Regency,"North Indian, Chinese, Continental, Italian",--•,600 FOR TWO,https://swiggy.com/restaurants/the-china-kitchen-hyatt-regency-r-k-puram-south-campus-delhi-264430
-Chah Shala,"Italian-American, Fast Food, Chinese, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/chah-shala-gtb-nagar-delhi-528426
-TKs Oriental Grill - Hyatt regency,"North Indian, Chinese, Continental, Italian",--•,600 FOR TWO,https://swiggy.com/restaurants/tks-oriental-grill-hyatt-regency-r-k-puram-rama-krishna-puram-delhi-264529
-La Piazza - Hyatt regency Delhi,"North Indian, Chinese, Continental, Italian",--•,600 FOR TWO,https://swiggy.com/restaurants/la-piazza-hyatt-regency-delhi-r-k-puram-rama-krishna-puram-delhi-264528
-Cafe - Hyatt Regency,"North Indian, Chinese, Continental, Italian",--•,600 FOR TWO,https://swiggy.com/restaurants/cafe-hyatt-regency-r-k-puram-rama-krishna-puram-delhi-264530
-Super Express,"South Indian, Chinese, Snacks",--•,100 FOR TWO,https://swiggy.com/restaurants/super-express-laxmi-nagar-delhi-455794
-Jyoti Chaat Corner,Chaat,--•,200 FOR TWO,https://swiggy.com/restaurants/jyoti-chaat-corner-laxmi-nagar-delhi-483272
- SIR JEE KITCHEN,North Indian,--•,300 FOR TWO,https://swiggy.com/restaurants/sir-jee-kitchen-tri-nagar-saraswati-vihar-north-west-delhi-380425
-KHANNA JUICE CORNER,"Beverages, Ice Cream",--•,150 FOR TWO,https://swiggy.com/restaurants/khanna-juice-corner-krishna-nagar-delhi-376649
-SHAMMI BHAI LASSI WALA,"Chinese, Snacks, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/shammi-bhai-lassi-wala-gtb-nagar-delhi-400799
-CHINESE BYTE,"Chinese, Indian, Italian",--•,200 FOR TWO,https://swiggy.com/restaurants/chinese-byte-laxmi-nagar-krishna-nagar-delhi-515522
-The  Hot  Pops,Snacks,--•,300 FOR TWO,https://swiggy.com/restaurants/the-hot-pops-south-campus-delhi-513798
-Crispy Delight Bakers,Italian-American,--•,250 FOR TWO,https://swiggy.com/restaurants/crispy-delight-bakers-laxmi-nagar-delhi-526643
-BURGERS N BAOS,"American, Fast Food, Barbecue, Asian, Snacks, Desserts, Beverages",--•,400 FOR TWO,https://swiggy.com/restaurants/burgers-n-baos-kirti-nagar-delhi-414151
-Butter chicken babe,"North Indian, Biryani",--•,500 FOR TWO,https://swiggy.com/restaurants/butter-chicken-babe-lajpat-nagar-delhi-503894
+Foodezz,"Continental, Chinese, Tandoor",2.8,₹150 FOR TWO,https://swiggy.com/restaurants/foodezz-gtb-nagar-delhi-543378
+THE BIRYANI INC,"Biryani, Beverages, Chinese",2.8,₹200 FOR TWO,https://swiggy.com/restaurants/the-biryani-inc-mayur-vihar-vinod-nagar-north-delhi-340752
+Hari OM Chaapwala,"Indian, Thalis",2.8,₹150 FOR TWO,https://swiggy.com/restaurants/hari-om-chaapwala-mayur-vihar-delhi-479307
+Chinese King,"Chinese, Fast Food",2.8,₹300 FOR TWO,https://swiggy.com/restaurants/chinese-king-near-pooja-park-karol-bagh-delhi-10124
+Vaishnav dhaba,North Indian,2.7,₹250 FOR TWO,https://swiggy.com/restaurants/vaishnav-dhaba-lajpat-nagar-sunlight-colony-delhi-85490
+RAJDHANI RESTAURANT,"Afghani, Biryani, Chinese, Indian, North Indian",2.7,₹100 FOR TWO,https://swiggy.com/restaurants/rajdhani-restaurant-karol-bagh-delhi-455426
+Shakes Story,"Beverages, Italian",2.6,₹150 FOR TWO,https://swiggy.com/restaurants/shakes-story-gtb-nagar-mukherjee-nagar-delhi-162884
+Shloka - A Multicuisine Restaurant,"Beverages, Italian, Biryani, Punjabi",2.6,₹200 FOR TWO,https://swiggy.com/restaurants/shloka-a-multicuisine-restaurant-gtb-nagar-mukherjee-nagar-delhi-60293
+Chicago Pizza,"Italian, Pizzas, Beverages",2.6,₹400 FOR TWO,https://swiggy.com/restaurants/chicago-pizza-karol-bagh-rajinder-nagar-delhi-120721
+PUNJABI DHABA,"North Indian, Snacks, Chinese",2.6,₹600 FOR TWO,https://swiggy.com/restaurants/punjabi-dhaba-karol-bagh-delhi-540456
+New National Restaurant,"Indian, Tandoor",2.6,₹600 FOR TWO,https://swiggy.com/restaurants/new-national-restaurant-connaught-place-delhi-344689
+Burger Shack,Beverages,2.3,₹200 FOR TWO,https://swiggy.com/restaurants/burger-shack-kingsway-camp-mukherjee-nagar-delhi-68696
+Hello G Sas Kitchen,"Biryani, Indian",2.3,₹250 FOR TWO,https://swiggy.com/restaurants/hello-g-sas-kitchen-paharganj-delhi-delhi-169793
+Punjabi Chacha Dhaba,"Street Food, North Indian, Salads",2.1,₹300 FOR TWO,https://swiggy.com/restaurants/punjabi-chacha-dhaba-south-campus-rama-krishna-puram-delhi-352219
+Ham Burger,Beverages,2.0,₹150 FOR TWO,https://swiggy.com/restaurants/ham-burger-gtb-nagar-mukherjee-nagar-delhi-179827
+Ammas kitchen,"South Indian, North Indian, Snacks, British",2.0,₹180 FOR TWO,https://swiggy.com/restaurants/ammas-kitchen-laxmi-nagar-delhi-462209
 Kadak Singh,"North Indian, Chinese, Seafood, Snacks",--•,400 FOR TWO,https://swiggy.com/restaurants/kadak-singh-south-extension-delhi-577958
 Rock N' Roll Restro,"Italian-American, Chinese, Fast Food, Snacks, Beverages",--•,200 FOR TWO,https://swiggy.com/restaurants/rock-n-roll-restro-laxmi-nagar-delhi-553155
 D3 - DHABA DILLI DA,Indian,--•,250 FOR TWO,https://swiggy.com/restaurants/d3-dhaba-dilli-da-gtb-nagar-delhi-570992
@@ -655,7 +669,6 @@ La Piazza - Hyatt regency Delhi,"North Indian, Chinese, Continental, Italian",--
 Cafe - Hyatt Regency,"North Indian, Chinese, Continental, Italian",--•,600 FOR TWO,https://swiggy.com/restaurants/cafe-hyatt-regency-r-k-puram-rama-krishna-puram-delhi-264530
 Super Express,"South Indian, Chinese, Snacks",--•,100 FOR TWO,https://swiggy.com/restaurants/super-express-laxmi-nagar-delhi-455794
 Jyoti Chaat Corner,Chaat,--•,200 FOR TWO,https://swiggy.com/restaurants/jyoti-chaat-corner-laxmi-nagar-delhi-483272
-Jyoti Chaat Corner,Chaat,--•,200 FOR TWO,https://swiggy.com/restaurants/jyoti-chaat-corner-laxmi-nagar-delhi-483272
  SIR JEE KITCHEN,North Indian,--•,300 FOR TWO,https://swiggy.com/restaurants/sir-jee-kitchen-tri-nagar-saraswati-vihar-north-west-delhi-380425
 KHANNA JUICE CORNER,"Beverages, Ice Cream",--•,150 FOR TWO,https://swiggy.com/restaurants/khanna-juice-corner-krishna-nagar-delhi-376649
 SHAMMI BHAI LASSI WALA,"Chinese, Snacks, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/shammi-bhai-lassi-wala-gtb-nagar-delhi-400799
@@ -671,7 +684,9 @@ Jain shikanji,"South Indian, Street Food, Snacks, Beverages",--•,250 FOR TWO,h
 Momos Point (Famous Maggie Vaale),"Chinese, Tandoor",--•,250 FOR TWO,https://swiggy.com/restaurants/momos-point-famous-maggie-vaale-krishna-nagar-delhi-40388
 RAJASTHANI ICE CREAM & PAW BHAJI,"Ice Cream, Desserts, Beverages",--•,350 FOR TWO,https://swiggy.com/restaurants/rajasthani-ice-cream-and-paw-bhaji-laxmi-nagar-delhi-571363
 Food Sip N Bite,Fast Food,--•,300 FOR TWO,https://swiggy.com/restaurants/food-sip-n-bite-ashok-vihar-delhi-496173
+Chakhna Lo India,"Indian, Snacks, Chinese",--•,350 FOR TWO,https://swiggy.com/restaurants/chakhna-lo-india-kirti-nagar-inderpuri-delhi-568713
 Punjabi By Nature,North Indian,--•,1300 FOR TWO,https://swiggy.com/restaurants/punjabi-by-nature-industrial-area-kirti-nagar-delhi-412795
+The Cheesy Story,"Fast Food, Beverages",--•,350 FOR TWO,https://swiggy.com/restaurants/the-cheesy-story-lajpat-nagar-delhi-560058
 The Cheesy Story,"Fast Food, Beverages",--•,350 FOR TWO,https://swiggy.com/restaurants/the-cheesy-story-lajpat-nagar-delhi-560058
 Ludo Lalit,"Chinese, American, Snacks, Combo",--•,300 FOR TWO,https://swiggy.com/restaurants/ludo-lalit-ashok-vihar-delhi-491528
 DELHI ZAIKA,Indian,--•,200 FOR TWO,https://swiggy.com/restaurants/delhi-zaika-laxmi-nagar-krishna-nagar-delhi-410896
@@ -687,9 +702,7 @@ GURU JI RASOI,"North Indian, Chinese, Beverages",--•,150 FOR TWO,https://swigg
 Chill Maaro,"Fast Food, Chinese, Beverages",--•,200 FOR TWO,https://swiggy.com/restaurants/chill-maaro-ashok-vihar-delhi-490838
 CHICK SHOP,Continental,--•,200 FOR TWO,https://swiggy.com/restaurants/chick-shop-laxmi-nagar-krishna-nagar-delhi-356325
 CHILLISTA,"Chinese, Pastas, Beverages",--•,350 FOR TWO,https://swiggy.com/restaurants/chillista-laxmi-nagar-delhi-567868
-CHILLISTA,"Chinese, Pastas, Beverages",--•,350 FOR TWO,https://swiggy.com/restaurants/chillista-laxmi-nagar-delhi-567868
 The Momos Factory,"Chinese, Tandoor, Snacks",--•,200 FOR TWO,https://swiggy.com/restaurants/the-momos-factory-laxmi-nagar-delhi-391287
-Hum Sabki Rasoi,"North Indian, Chinese, Snacks",--•,300 FOR TWO,https://swiggy.com/restaurants/hum-sabki-rasoi-kirti-nagar-delhi-579638
 Lizza's Pizza,"Fast Food, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/lizzas-pizza-south-extension-delhi-573555
 Brij Veggies,Indian,--•,210 FOR TWO,https://swiggy.com/restaurants/brij-veggies-gtb-nagar-delhi-502311
 Momos Raja,"Chinese, Tandoor",--•,200 FOR TWO,https://swiggy.com/restaurants/momos-raja-laxmi-nagar-delhi-388168
@@ -703,6 +716,7 @@ Bakery 24/7,Indian,--•,400 FOR TWO,https://swiggy.com/restaurants/bakery-24-7-
 Meatwale. Com,Snacks,--•,300 FOR TWO,https://swiggy.com/restaurants/meatwale-com-main-jheel-road-krishna-nagar-delhi-57789
 Shah Namkeen,Bakery,--•,150 FOR TWO,https://swiggy.com/restaurants/shah-namkeen-krishna-nagar-delhi-542041
 MANI'S CHICKEN INN,"North Indian, Chinese",--•,200 FOR TWO,https://swiggy.com/restaurants/manis-chicken-inn-chwala-chicken-near-laxmi-nager-geeta-colony-police-station-opposite-delhi-542810
+HALEEM & BIRYANI,"Cafe, Biryani",--•,200 FOR TWO,https://swiggy.com/restaurants/haleem-and-biryani-ashok-vihar-delhi-550807
 Wack Waffles & Brownies,"Waffle, Bakery, Desserts, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/wack-waffles-and-brownies-gtb-nagar-delhi-555490
 Veg Break Fast Restaurant,"North Indian, South Indian",--•,200 FOR TWO,https://swiggy.com/restaurants/veg-break-fast-restaurant-ashok-vihar-delhi-550815
 CHAIMOS (A UNIT OF QDM GROUP),"Chinese, Snacks, Burgers",--•,200 FOR TWO,https://swiggy.com/restaurants/chaimos-a-unit-of-qdm-group-south-campus-delhi-571870
@@ -719,22 +733,22 @@ Good Bite,"Fast Food, Chinese",--•,200 FOR TWO,https://swiggy.com/restaurants/
 Saini Food Corner,Indian,--•,300 FOR TWO,https://swiggy.com/restaurants/saini-food-corner-gautam-nagar-south-extension-delhi-164275
 Stoned Burgers,"Fast Food, Snacks, Pizzas",--•,200 FOR TWO,https://swiggy.com/restaurants/stoned-burgers-south-campus-south-moti-bagh-delhi-223264
 Local Native,"Italian, Snacks, Fast Food, Beverages",--•,500 FOR TWO,https://swiggy.com/restaurants/local-native-gtb-nagar-delhi-484075
-BURER BISTRO,"Chinese, Fast Food",--•,200 FOR TWO,https://swiggy.com/restaurants/burer-bistro-laxmi-nagar-delhi-505060
-BURG-O-RAJA,"Pizzas, Beverages",--•,200 FOR TWO,https://swiggy.com/restaurants/burg-o-raja-laxmi-nagar-delhi-505065
-Aahaaa,"Chinese, North Indian",--•,200 FOR TWO,https://swiggy.com/restaurants/aahaaa-laxmi-nagar-geeta-colony-delhi-224516
-Informal,"North Indian, Indian, Mughlai, Biryani",--•,600 FOR TWO,https://swiggy.com/restaurants/informal-khan-market-delhi-576660
-Chinese-Winese,"Chinese, Snacks",--•,250 FOR TWO,https://swiggy.com/restaurants/chinese-winese-karol-bagh-delhi-525900
-The Hangry Hut,"Chinese, North Indian, Fast Food",--•,250 FOR TWO,https://swiggy.com/restaurants/the-hangry-hut-laxmi-nagar-delhi-511741
-The Thai Guy,"Indian, Chinese, Snacks",--•,300 FOR TWO,https://swiggy.com/restaurants/the-thai-guy-karol-bagh-patel-nagar-delhi-342191
-PANDIT JI PARATHA HUT,Indian,--•,100 FOR TWO,https://swiggy.com/restaurants/pandit-ji-paratha-hut-laxmi-nagar-delhi-437388
-Santosh Patisserie,Bakery,--•,299 FOR TWO,https://swiggy.com/restaurants/santosh-patisserie-karol-bagh-delhi-361658
-C.B.S.E (Coffee.Burger.Shakes.Etc) Cafe,"Continental, Pizzas",--•,300 FOR TWO,https://swiggy.com/restaurants/c-b-s-e-coffee-burger-shakes-etc-cafe-laxmi-nagar-delhi-475626
+SUKH CHAI,"Beverages, Snacks",--•,150 FOR TWO,https://swiggy.com/restaurants/sukh-chai-gtb-nagar-delhi-414874
+Pind De Chur Chur Naan by Pind Balluchi,North Indian,--•,600 FOR TWO,https://swiggy.com/restaurants/pind-de-chur-chur-naan-by-pind-balluchi-lajpat-nagar-delhi-359195
+Foodie Raja,"Indian, Fast Food",--•,300 FOR TWO,https://swiggy.com/restaurants/foodie-raja-geeta-colony-delhi-122636
+Frozen Pizza Hub,Indian,--•,400 FOR TWO,https://swiggy.com/restaurants/frozen-pizza-hub-rajgarh-colony-gandhi-nagar-shahdara-delhi-171058
 Shakir Bhai Parathe Wale,Indian,--•,200 FOR TWO,https://swiggy.com/restaurants/shakir-bhai-parathe-wale-shahdara-laxmi-nagar-delhi-430748
-Cake & Co,"Bakery, Desserts",--•,200 FOR TWO,https://swiggy.com/restaurants/cake-and-co-kirti-nagar-delhi-417780
-HOUSE OF ANNA,"South Indian, Chinese, Street Food, Pastas, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/house-of-anna-laxmi-nagar-delhi-451207
-Hunger Spot,"Biryani, Tandoor",--•,400 FOR TWO,https://swiggy.com/restaurants/hunger-spot-south-extension-lajpat-nagar-delhi-373633
-Make My Thali,"Chinese, Pastas, North Indian",--•,200 FOR TWO,https://swiggy.com/restaurants/make-my-thali-laxmi-nagar-delhi-496562
-Takeout,"American, Fast Food, Snacks, Beverages",--•,200 FOR TWO,https://swiggy.com/restaurants/takeout-karol-bagh-delhi-531316
+KK Foods,Indian,--•,300 FOR TWO,https://swiggy.com/restaurants/kk-foods-laxmi-nagar-delhi-563334
+Tikka Taj,"North Indian, Biryani",--•,500 FOR TWO,https://swiggy.com/restaurants/tikka-taj-karol-bagh-delhi-553910
+The Rice & Noodle House,"Chinese, Asian",--•,400 FOR TWO,https://swiggy.com/restaurants/the-rice-and-noodle-house-south-extension-delhi-396202
+Innings Break Cafe,"Italian, Fast Food, Chinese, Beverages",--•,400 FOR TWO,https://swiggy.com/restaurants/innings-break-cafe-laxmi-nagar-delhi-574563
+Sukh Sagars Rajshree Restaurant,"Indian, Chinese, Biryani, Snacks",--•,500 FOR TWO,https://swiggy.com/restaurants/sukh-sagars-rajshree-restaurant-krishna-nagar-laxmi-nagar-delhi-434170
+Chaap Story,"North Indian, Chinese, Snacks",--•,500 FOR TWO,https://swiggy.com/restaurants/chaap-story-laxmi-nagar-delhi-511346
+KING PIZZA OF ITALIAN,"Fast Food, Indian, Pizzas",--•,300 FOR TWO,https://swiggy.com/restaurants/king-pizza-of-italian-laxmi-nagar-geeta-colony-delhi-323652
+LET'S DO DELLI,"Indian, Snacks",--•,250 FOR TWO,https://swiggy.com/restaurants/lets-do-delli-lajpat-nagar-delhi-565361
+BHOKHA SHER,"Kebabs, North Indian, Indian",--•,200 FOR TWO,https://swiggy.com/restaurants/bhokha-sher-lajpat-nagar-delhi-565352
+Sharma Ji Ke Mashoor Chole Bhature,"North Indian, Chinese",--•,150 FOR TWO,https://swiggy.com/restaurants/sharma-ji-ke-mashoor-chole-bhature-south-extension-delhi-548850
+MDH MASALA LEGENDRY CULINERY KITCHEN SINCE 1960,Indian,--•,250 FOR TWO,https://swiggy.com/restaurants/mdh-masala-legendry-culinery-kitchen-since-1960-lajpat-nagar-delhi-565392
 THE FOOD LOVER,Indian,--•,250 FOR TWO,https://swiggy.com/restaurants/the-food-lover-lajpat-nagar-delhi-565385
 AKIB CHICKEN BIRYANI POINT,"Biryani, Indian, North Indian",--•,300 FOR TWO,https://swiggy.com/restaurants/akib-chicken-biryani-point-south-extension-delhi-538606
 Backstreet Cafe,"Italian, Fast Food, Combo",--•,300 FOR TWO,https://swiggy.com/restaurants/backstreet-cafe-laxmi-nagar-delhi-455338
@@ -743,6 +757,7 @@ MOOLCHANDWALA,"North Indian, Snacks, Indian",--•,250 FOR TWO,https://swiggy.co
 Dollma aunty momos,Chinese,--•,250 FOR TWO,https://swiggy.com/restaurants/dollma-aunty-momos-gtb-nagar-delhi-567518
 Dhaba Culture By Rajshree,"Chinese, North Indian, Snacks, Tandoor",--•,500 FOR TWO,https://swiggy.com/restaurants/dhaba-culture-by-rajshree-dilshad-gardens-laxmi-nagar-delhi-503618
 Kwality Chaap Corner,"Chinese, Snacks",--•,200 FOR TWO,https://swiggy.com/restaurants/kwality-chaap-corner-south-campus-south-moti-bagh-delhi-339390
+Embassy Hudson,"Chinese, Pastas, Asian, Fast Food",--•,600 FOR TWO,https://swiggy.com/restaurants/embassy-hudson-gtb-nagar-delhi-351463
 Zaika Chicken Biryani,"Biryani, North Indian",--•,200 FOR TWO,https://swiggy.com/restaurants/zaika-chicken-biryani-south-campus-satya-niketan-delhi-562418
 Cake Studio,Bakery,--•,350 FOR TWO,https://swiggy.com/restaurants/cake-studio-south-extension-delhi-563223
 Chopsticks Company,Chinese,--•,500 FOR TWO,https://swiggy.com/restaurants/chopsticks-company-kirti-nagar-najafgarh-road-industrial-area-delhi-321235
@@ -768,7 +783,6 @@ Tandoori Nice Pizza Point,"Pizzas, Fast Food, Snacks",--•,200 FOR TWO,https://
 AAMA KO KITCHEN,"Chinese, Snacks, American, Fast Food",--•,300 FOR TWO,https://swiggy.com/restaurants/aama-ko-kitchen-south-campus-delhi-524394
 Pizza Toppings,"Pizzas, Fast Food, Snacks",--•,200 FOR TWO,https://swiggy.com/restaurants/pizza-toppings-laxmi-nagar-delhi-479137
 Murliwala Chinese hub,Chinese,--•,300 FOR TWO,https://swiggy.com/restaurants/murliwala-chinese-hub-laxmi-nagar-delhi-562153
-Cnc,Indian,--•,200 FOR TWO,https://swiggy.com/restaurants/cnc-laxmi-nagar-delhi-508734
 CHINESE WOW,"Chinese, Asian, Seafood",--•,250 FOR TWO,https://swiggy.com/restaurants/chinese-wow-lajpat-nagar-delhi-462159
 APS KITCHEN,"South Indian, Snacks",--•,200 FOR TWO,https://swiggy.com/restaurants/aps-kitchen-gtb-nagar-delhi-509314
 Foodies Point,"North Indian, Indian, Chinese, Snacks",--•,350 FOR TWO,https://swiggy.com/restaurants/foodies-point-gtb-nagar-delhi-542948
@@ -783,8 +797,8 @@ Tiffin Fax,Thalis,--•,300 FOR TWO,https://swiggy.com/restaurants/tiffin-fax-ki
 Lemon kitchen,"Chinese, North Indian",--•,150 FOR TWO,https://swiggy.com/restaurants/lemon-kitchen-south-extension-delhi-429924
 TAXI WORLD FOOD CAFE,"Beverages, Fast Food",--•,1500 FOR TWO,https://swiggy.com/restaurants/taxi-world-food-cafe-gtb-nagar-delhi-561658
 Mama's Buoi,"Continental, Beverages, Chinese, Italian, North Indian",--•,500 FOR TWO,https://swiggy.com/restaurants/mamas-buoi-gtb-nagar-delhi-380642
-Mama's Buoi,"Continental, Beverages, Chinese, Italian, North Indian",--•,500 FOR TWO,https://swiggy.com/restaurants/mamas-buoi-gtb-nagar-delhi-380642
 Love At First Bite,Bakery,--•,200 FOR TWO,https://swiggy.com/restaurants/love-at-first-bite-south-campus-delhi-504978
+Aar Par Fast Food & Pizza Junction,"Pizzas, North Indian, Burgers, Chinese, Pastas",--•,150 FOR TWO,https://swiggy.com/restaurants/aar-par-fast-food-and-pizza-junction-shahdara-delhi-565545
 Aar Par Fast Food & Pizza Junction,"Pizzas, North Indian, Burgers, Chinese, Pastas",--•,150 FOR TWO,https://swiggy.com/restaurants/aar-par-fast-food-and-pizza-junction-shahdara-delhi-565545
 Nice Pizza Point,"Pizzas, Fast Food",--•,300 FOR TWO,https://swiggy.com/restaurants/nice-pizza-point-shahdara-laxmi-nagar-delhi-436460
 Bella Rossa,"Indian, Tandoor",--•,1100 FOR TWO,https://swiggy.com/restaurants/bella-rossa-gtb-nagar-delhi-469560
@@ -799,8 +813,24 @@ Sub Singh,"Salads, Beverages, Healthy Food",--•,500 FOR TWO,https://swiggy.com
 Food Time,"Chinese, Indian, Fast Food",--•,200 FOR TWO,https://swiggy.com/restaurants/food-time-mayur-vihar-delhi-449152
 New RDX,"North Indian, Tandoor, Biryani, Snacks",--•,300 FOR TWO,https://swiggy.com/restaurants/new-rdx-hauz-khas-delhi-527875
 SHARMA DHABA,Indian,--•,300 FOR TWO,https://swiggy.com/restaurants/sharma-dhaba-south-extension-delhi-540092
+YAARA DI KITCHEN,"Indian, Chinese, Biryani",--•,299 FOR TWO,https://swiggy.com/restaurants/yaara-di-kitchen-mayur-vihar-delhi-526513
+Foodies junction,"Italian, Fast Food, Chinese",--•,250 FOR TWO,https://swiggy.com/restaurants/foodies-junction-laxmi-nagar-delhi-547506
+ADAE HAANDI,"Indian, Chinese",--•,800 FOR TWO,https://swiggy.com/restaurants/adae-haandi-south-campus-delhi-422346
+YO YO MOMOS,Tibetan,--•,99 FOR TWO,https://swiggy.com/restaurants/yo-yo-momos-laxmi-nagar-geeta-colony-delhi-426773
+Chinese cafe,"Chinese, Snacks, Tandoor",--•,300 FOR TWO,https://swiggy.com/restaurants/chinese-cafe-laxmi-nagar-delhi-550395
+Pate Full,North Indian,--•,200 FOR TWO,https://swiggy.com/restaurants/pate-full-laxmi-nagar-delhi-575726
+Maa ke rasoi,Chinese,--•,250 FOR TWO,https://swiggy.com/restaurants/maa-ke-rasoi-laxmi-nagar-delhi-395469
+Sandwich Mcenza!,"Fast Food, Snacks, Beverages",--•,150 FOR TWO,https://swiggy.com/restaurants/sandwich-mcenza-ashok-vihar-delhi-568071
+BAKE RIDERS,Bakery,--•,298 FOR TWO,https://swiggy.com/restaurants/bake-riders-laxmi-nagar-delhi-453961
+Bachpan Ka Pyar Chaap,"Snacks, Indian",--•,130 FOR TWO,https://swiggy.com/restaurants/bachpan-ka-pyar-chaap-gtb-nagar-delhi-545362
+SINGAM DOSA CORNER,South Indian,--•,200 FOR TWO,https://swiggy.com/restaurants/singam-dosa-corner-laxmi-nagar-krishna-nagar-delhi-365504
+Cafe Taurtilla,"Fast Food, Chinese, Beverages, Snacks",--•,300 FOR TWO,https://swiggy.com/restaurants/cafe-taurtilla-gtb-nagar-delhi-466520
+PAJJI KHAAO PIYO,"Snacks, Desserts, Thalis, Beverages",--•,300 FOR TWO,https://swiggy.com/restaurants/pajji-khaao-piyo-gtb-nagar-vijay-nagar-delhi-356319
+La mandarin,Chinese,--•,300 FOR TWO,https://swiggy.com/restaurants/la-mandarin-gtb-nagar-delhi-451695
+Paranthas delhi belly,"Indian, North Indian",--•,150 FOR TWO,https://swiggy.com/restaurants/paranthas-delhi-belly-gtb-nagar-delhi-487636
 The Meme Story,"Fast Food, Italian, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/the-meme-story-laxmi-nagar-delhi-487671
 Old skool,Beverages,--•,200 FOR TWO,https://swiggy.com/restaurants/old-skool-gtb-nagar-delhi-501879
+Crazy Shakes Parlour,"Juices, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/crazy-shakes-parlour-vijay-nagar-kalyan-vihar-delhi-181178
 Crazy Shakes Parlour,"Juices, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/crazy-shakes-parlour-vijay-nagar-kalyan-vihar-delhi-181178
 Dady Cool Shake & Ice Cream Parlour,"Ice Cream, Desserts, Beverages, Snacks",--•,200 FOR TWO,https://swiggy.com/restaurants/dady-cool-shake-and-ice-cream-parlour-gtb-nagar-delhi-393099
 The Branch Cafe,"Italian, Asian, Indian, American",--•,800 FOR TWO,https://swiggy.com/restaurants/the-branch-cafe-south-ex-2-south-extension-ii-delhi-58696
@@ -815,8 +845,8 @@ A-ONE CHICKEN MURADABADI BIRYANI,Biryani,--•,450 FOR TWO,https://swiggy.com/re
 Royal Handi,North Indian,--•,200 FOR TWO,https://swiggy.com/restaurants/royal-handi-tis-hazari-ashok-vihar-delhi-297852
 Desi Frangi,"North Indian, Chinese, Biryani",--•,300 FOR TWO,https://swiggy.com/restaurants/desi-frangi-laxmi-nagar-delhi-570105
 PASTASCIUTTA,Snacks,--•,200 FOR TWO,https://swiggy.com/restaurants/pastasciutta-laxmi-nagar-mayur-vihar-delhi-472720
+I am Momo's,Fast Food,--•,200 FOR TWO,https://swiggy.com/restaurants/i-am-momos-laxmi-nagar-mayur-vihar-delhi-472724
 Matka Biryani Corner,"Biryani, Ice Cream",--•,600 FOR TWO,https://swiggy.com/restaurants/matka-biryani-corner-mayur-vihar-delhi-553364
-biryani by kimo,Biryani,--•,450 FOR TWO,https://swiggy.com/restaurants/biryani-by-kimo-mayur-vihar-delhi-528387
 Flavour Of Italy,"Pizzas, Fast Food",--•,400 FOR TWO,https://swiggy.com/restaurants/flavour-of-italy-south-extension-delhi-584108
 PREETI FOOD POINT,Snacks,--•,150 FOR TWO,https://swiggy.com/restaurants/preeti-food-point-mayur-vihar-delhi-565443
 Honey The Kathi Roll,Snacks,--•,200 FOR TWO,https://swiggy.com/restaurants/honey-the-kathi-roll-mayur-vihar-delhi-571671
@@ -831,6 +861,8 @@ Desi Dhaba,Indian,--•,250 FOR TWO,https://swiggy.com/restaurants/desi-dhaba-gt
 Kuch bhi kahi bhi,"Indian, Chinese, Continental",--•,300 FOR TWO,https://swiggy.com/restaurants/kuch-bhi-kahi-bhi-ashok-vihar-delhi-516966
 Foodie Stop,"Indian, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/foodie-stop-janakpuri-delhi-574215
 OM SAI RASOI,Indian,--•,200 FOR TWO,https://swiggy.com/restaurants/om-sai-rasoi-ashok-vihar-delhi-517661
+GolgapppaG,"Chaat, Snacks",--•,240 FOR TWO,https://swiggy.com/restaurants/golgapppag-mayur-vihar-delhi-492874
+JANTA MEAT AND CHICKEN SHOP,"North Indian, Snacks",--•,250 FOR TWO,https://swiggy.com/restaurants/janta-meat-and-chicken-shop-south-extension-delhi-475062
 JANTA MEAT AND CHICKEN SHOP,"North Indian, Snacks",--•,250 FOR TWO,https://swiggy.com/restaurants/janta-meat-and-chicken-shop-south-extension-delhi-475062
 INA KITCHEN CO.,"Chaat, Continental, Pizzas",--•,300 FOR TWO,https://swiggy.com/restaurants/ina-kitchen-co-south-extension-ina-colony-delhi-335920
 OPTIMUM TASTY BITE,"Fast Food, Italian, Snacks, Beverages",--•,200 FOR TWO,https://swiggy.com/restaurants/optimum-tasty-bite-laxmi-nagar-delhi-532559
@@ -847,8 +879,6 @@ Singh Chicken Corner,Indian,--•,200 FOR TWO,https://swiggy.com/restaurants/sin
 Standard Cake Shop,"Bakery, Fast Food, Snacks",--•,350 FOR TWO,https://swiggy.com/restaurants/standard-cake-shop-baljeet-nagar-delhi-563744
 The Chaap Street,North Indian,--•,300 FOR TWO,https://swiggy.com/restaurants/the-chaap-street-lajpat-nagar-delhi-459560
 Deep Singh Da Dhaba,"Chinese, Indian",--•,200 FOR TWO,https://swiggy.com/restaurants/deep-singh-da-dhaba-laxmi-nagar-delhi-545491
-Deep Singh Da Dhaba,"Chinese, Indian",--•,200 FOR TWO,https://swiggy.com/restaurants/deep-singh-da-dhaba-laxmi-nagar-delhi-545491
-007 Pizza And Burger,Continental,--•,300 FOR TWO,https://swiggy.com/restaurants/007-pizza-and-burger-laxmi-nagar-delhi-475579
 American bites,Continental,--•,350 FOR TWO,https://swiggy.com/restaurants/american-bites-laxmi-nagar-delhi-475576
 Curries and Tikkaas,"Indian, Chinese, Arabian",--•,400 FOR TWO,https://swiggy.com/restaurants/curries-and-tikkaas-greater-kailash-2-lajpat-nagar-delhi-427700
 C.B.S.E (Coffee.Burger.Shakes.Etc) Cafe,"Continental, Pizzas",--•,300 FOR TWO,https://swiggy.com/restaurants/c-b-s-e-coffee-burger-shakes-etc-cafe-laxmi-nagar-delhi-475626
@@ -863,8 +893,8 @@ Pick N Go Burger,"American, Italian",--•,300 FOR TWO,https://swiggy.com/restau
 Ice Cream House,"Ice Cream, Biryani",--•,300 FOR TWO,https://swiggy.com/restaurants/ice-cream-house-mayur-vihar-delhi-455175
 The Unique Cakery,Bakery,--•,350 FOR TWO,https://swiggy.com/restaurants/the-unique-cakery-south-delhi-delhi-550299
 Murthal Xpress,"North Indian, South Indian, Chinese, Chaat, Thalis, Punjabi",--•,350 FOR TWO,https://swiggy.com/restaurants/murthal-xpress-laxmi-nagar-delhi-577439
-Murthal Xpress,"North Indian, South Indian, Chinese, Chaat, Thalis, Punjabi",--•,350 FOR TWO,https://swiggy.com/restaurants/murthal-xpress-laxmi-nagar-delhi-577439
 OLIVE CHINEESE FOOD,Chinese,--•,350 FOR TWO,https://swiggy.com/restaurants/olive-chineese-food-lajpat-nagar-delhi-535647
+La Mia,"Bakery, Desserts",--•,350 FOR TWO,https://swiggy.com/restaurants/la-mia-lajpat-nagar-defence-colony-delhi-524604
 La Mia,"Bakery, Desserts",--•,350 FOR TWO,https://swiggy.com/restaurants/la-mia-lajpat-nagar-defence-colony-delhi-524604
 Sam's Burger Point,"Italian-American, Fast Food, Beverages",--•,300 FOR TWO,https://swiggy.com/restaurants/sams-burger-point-laxmi-nagar-delhi-541953
 hungry owl,"Italian, Chinese",--•,150 FOR TWO,https://swiggy.com/restaurants/hungry-owl-shastri-nagar-delhi-251333
@@ -879,6 +909,8 @@ MOkru,Chinese,--•,199 FOR TWO,https://swiggy.com/restaurants/mokru-lajpat-naga
 Eis & Bites,"Fast Food, Indian, Chinese, Italian-American, Ice Cream, Beverages, Desserts",--•,400 FOR TWO,https://swiggy.com/restaurants/eis-and-bites-laxmi-nagar-delhi-583420
 MOKOPINEWRAP,"Snacks, Fast Food, Chinese",--•,178 FOR TWO,https://swiggy.com/restaurants/mokopinewrap-laxmi-nagar-delhi-510049
 RJ Foods & Services,"Chinese, North Indian, Sweets",--•,800 FOR TWO,https://swiggy.com/restaurants/rj-foods-and-services-laxmi-nagar-delhi-484755
+Ugly Delicious - Saucy Monster Bowls,Biryani,--•,400 FOR TWO,https://swiggy.com/restaurants/ugly-delicious-saucy-monster-bowls-lajpat-nagar-delhi-558635
+Pizzastan,"Pizzas, Fast Food, Chinese",--•,200 FOR TWO,https://swiggy.com/restaurants/pizzastan-karol-bagh-delhi-568881
 Pishori Shahi Kabab,Indian,--•,300 FOR TWO,https://swiggy.com/restaurants/pishori-shahi-kabab-laxmi-nagar-geeta-colony-delhi-317776
 Idiot Cakes,Bakery,--•,400 FOR TWO,https://swiggy.com/restaurants/idiot-cakes-laxmi-nagar-delhi-540225
 M R CREATIONS,"Chinese, Snacks",--•,400 FOR TWO,https://swiggy.com/restaurants/m-r-creations-lajpat-nagar-delhi-359515
@@ -895,9 +927,6 @@ Azuki - Soulful Asian Delivery,"Pan-Asian, Japanese, Asian",--•,750 FOR TWO,ht
 The Pizza Studio,Pizzas,--•,1000 FOR TWO,https://swiggy.com/restaurants/the-pizza-studio-tis-hazari-civil-lines-delhi-574161
 Satvik Rasoi,Indian,--•,220 FOR TWO,https://swiggy.com/restaurants/satvik-rasoi-laxmi-nagar-delhi-565777
 The Chai Story,Beverages,--•,300 FOR TWO,https://swiggy.com/restaurants/the-chai-story-sarojni-nagar-sarojini-nagar-delhi-60154
-Satvik Rasoi,Indian,--•,220 FOR TWO,https://swiggy.com/restaurants/satvik-rasoi-laxmi-nagar-delhi-565777
-The Chai Story,Beverages,--•,300 FOR TWO,https://swiggy.com/restaurants/the-chai-story-sarojni-nagar-sarojini-nagar-delhi-60154
-Maa ki khichdi,"North Indian, Healthy Food, Desserts, Beverages",--•,250 FOR TWO,https://swiggy.com/restaurants/maa-ki-khichdi-south-extension-delhi-508866
 Manjus Kitchen,"Indian, Tandoor, Biryani, Chinese",--•,300 FOR TWO,https://swiggy.com/restaurants/manjus-kitchen-south-extension-south-extension-i-delhi-363931
 Soya Tandoori Junction,"Tandoor, North Indian",--•,300 FOR TWO,https://swiggy.com/restaurants/soya-tandoori-junction-lajpat-nagar-delhi-547796
 BBA FAST FOOD WALA,"Chinese, Fast Food, Indian",--•,150 FOR TWO,https://swiggy.com/restaurants/bba-fast-food-wala-lajpat-nagar-delhi-549501
@@ -911,3 +940,6 @@ Jenny's Brownies,"Bakery, Desserts, Beverages",--•,250 FOR TWO,https://swiggy.
 The Combo House,"Indian, South Indian",--•,200 FOR TWO,https://swiggy.com/restaurants/the-combo-house-south-extension-south-extension-i-delhi-363928
 BEST BUNS IN TOWN,"Fast Food, Chinese",--•,200 FOR TWO,https://swiggy.com/restaurants/best-buns-in-town-laxmi-nagar-delhi-505057
 BURG-O-RAJA,"Pizzas, Beverages",--•,200 FOR TWO,https://swiggy.com/restaurants/burg-o-raja-laxmi-nagar-delhi-505065
+Chaa Mathi,"Beverages, Snacks",--•,100 FOR TWO,https://swiggy.com/restaurants/chaa-mathi-lajpat-nagar-delhi-429338
+NEW TANDOORI 99,"Biryani, Tandoor",--•,350 FOR TWO,https://swiggy.com/restaurants/new-tandoori-99-karol-bagh-delhi-506715
+KURKURE JUNCTION,"Beverages, Continental, Ice Cream, North Indian",--•,400 FOR TWO,https://swiggy.com/restaurants/kurkure-junction-laxmi-nagar-delhi-477028
