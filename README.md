@@ -10,14 +10,14 @@ The source of data set is Swiggy's official website. Here is the link - https://
 ### Project outline
 - We'll grab a list of names, and urls of top rated restaurants in Delhi on Swiggy, and put them in 'rest_page.csv'.
 
-- Then we'll grab information like name, cuisine, location, rating, number of ratings, price for two, and url for each restaurant and save them in 'rest_delhi.csv'.
+- Then we'll grab information like name, cuisine, location, rating, number of ratings, and price for two for each restaurant and save them in 'rest_delhi.csv'.
 
 - The restaurants information will be stored in a csv file with format:
 
 ```
-name,cuisine,location,rating,num_of_rating,price_for_two,url
-Bhukkad's Kitchen,"North Indian, Indian","Tis Hazari, Tis Hazari",5.0,20+ ratings,₹ 199,https://swiggy.com/restaurants/great-indian-khichdi-by-eatfit-chuna-mandi-paharganj-gole-market-delhi-258198
-SUSHI MACHI,Sushi,"Hauz Khas, Green Park",4.9,20+ ratings,₹ 600,https://swiggy.com/restaurants/great-indian-khichdi-by-eatfit-chuna-mandi-paharganj-gole-market-delhi-258198
+name,cuisine,location,rating,num_of_rating,price_for_two
+Bhukkad's Kitchen,"North Indian, Indian","Tis Hazari, Tis Hazari",5.0,20+ ratings,₹ 199
+SUSHI MACHI,Sushi,"Hauz Khas, Green Park",4.9,20+ ratings,₹ 600
 ```
 
 ciao amico!
