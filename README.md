@@ -10,6 +10,8 @@ top restaurants in Delhi data and save the data in csv format.
 like name, cuisine, rating, number of ratings, and the price for two.
 The source of data set is Swiggy's official website. Here is the link - https://www.swiggy.com/city/delhi/top-rated-collection
 
+https://www.kaggle.com/datasets/deevanshisharma/swiggys-top-rated-restaurants-in-delhi?select=rest_page.csv
+
 ### Project outline
 - We'll grab a list of names, and urls of top rated restaurants in Delhi on Swiggy, and put them in 'rest_page.csv'.
 
